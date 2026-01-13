@@ -1,0 +1,293 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import products from "../../data/products/index.json";
+
+export function getStaticPaths() {
+	return products.map((product: any) => ({
+		params: { slug: product.slug },
+		props: { product },
+	}));
+}
+
+const { product } = Astro.props;
+const firstVariant = product.variants[0];
+---
+
+<BaseLayout title={product.name} description={product.description}>
+	<nav class="breadcrumbs">
+		<a href="/">Home</a>
+		<span>›</span>
+		<span>{product.name}</span>
+	</nav>
+
+	<div class="product-page">
+		<div class="product-image">
+			<img
+				src={product.images[0]?.src || "/images/placeholder.svg"}
+				alt={product.name}
+			/>
+		</div>
+
+		<div class="product-details">
+			<h1>{product.name}</h1>
+
+			<div class="product-meta">
+				<span class="price">${firstVariant?.price.toFixed(2)}</span>
+				<span class="sku">SKU: {firstVariant?.sku}</span>
+			</div>
+
+			{
+				product.description && (
+					<p class="description">{product.description}</p>
+				)
+			}
+
+			<div class="tags">
+				{
+					product.tags.map((tag: string) => (
+						<a href={`/?tag=${tag}`} class="tag">
+							{tag}
+						</a>
+					))
+				}
+			</div>
+
+			{
+				product.variants.length > 1 && (
+					<div class="variants">
+						<h3>Available Options</h3>
+						<table>
+							<thead>
+								<tr>
+									<th>SKU</th>
+									<th>Description</th>
+									<th>Size</th>
+									<th>Price</th>
+								</tr>
+							</thead>
+							<tbody>
+								{product.variants.map((v: any) => (
+									<tr>
+										<td>
+											<code>{v.sku}</code>
+										</td>
+										<td>{v.name || "—"}</td>
+										<td>{v.dimensions || "—"}</td>
+										<td class="price-cell">
+											${v.price.toFixed(2)}
+										</td>
+									</tr>
+								))}
+							</tbody>
+						</table>
+					</div>
+				)
+			}
+
+			{
+				(firstVariant?.dimensions || firstVariant?.engravingArea) && (
+					<div class="specs">
+						<h3>Specifications</h3>
+						<dl>
+							{firstVariant?.dimensions && (
+								<>
+									<dt>Dimensions</dt>
+									<dd>{firstVariant.dimensions}</dd>
+								</>
+							)}
+							{firstVariant?.engravingArea && (
+								<>
+									<dt>Engraving Area</dt>
+									<dd>{firstVariant.engravingArea}</dd>
+								</>
+							)}
+						</dl>
+					</div>
+				)
+			}
+
+			<div class="actions">
+				<a href="/contact" class="btn-primary">Request Quote</a>
+			</div>
+		</div>
+	</div>
+</BaseLayout>
+
+<style>
+	/* Breadcrumbs handled by global CSS */
+
+	.product-page {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 2rem;
+		align-items: start;
+	}
+
+	@media (max-width: 768px) {
+		.product-page {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.product-image {
+		background: #f5f5f5;
+		border-radius: 8px;
+		padding: 1rem;
+	}
+
+	.product-image img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+
+	.product-details h1 {
+		font-size: 1.75rem;
+		margin: 0 0 0.5rem 0;
+		color: #1a1a2e;
+	}
+
+	.product-meta {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	.product-meta .price {
+		font-size: 1.5rem;
+		font-weight: 700;
+		color: var(--gg-secondary);
+	}
+
+	.product-meta .sku {
+		font-size: 0.85rem;
+		color: #666;
+		font-family: monospace;
+		background: #f0f0f0;
+		padding: 0.25rem 0.5rem;
+		border-radius: 4px;
+	}
+
+	.description {
+		color: #444;
+		line-height: 1.6;
+		margin-bottom: 1rem;
+	}
+
+	.tags {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+		margin-bottom: 1.5rem;
+	}
+
+	.tag {
+		display: inline-block;
+		padding: 0.25rem 0.75rem;
+		background: #e8e8e8;
+		color: #444;
+		border-radius: 20px;
+		font-size: 0.8rem;
+		text-decoration: none;
+		text-transform: capitalize;
+	}
+
+	.tag:hover {
+		background: var(--gg-secondary);
+		color: white;
+	}
+
+	.variants {
+		margin-bottom: 1.5rem;
+	}
+
+	.variants h3 {
+		font-size: 1rem;
+		margin: 0 0 0.75rem 0;
+		color: #333;
+	}
+
+	.variants table {
+		width: 100%;
+		font-size: 0.9rem;
+		border-collapse: collapse;
+	}
+
+	.variants th {
+		text-align: left;
+		padding: 0.5rem;
+		background: #f5f5f5;
+		font-weight: 600;
+		font-size: 0.8rem;
+		color: #666;
+		text-transform: uppercase;
+	}
+
+	.variants td {
+		padding: 0.5rem;
+		border-bottom: 1px solid #eee;
+	}
+
+	.variants code {
+		background: #f0f0f0;
+		padding: 0.15rem 0.4rem;
+		border-radius: 3px;
+		font-size: 0.85rem;
+	}
+
+	.price-cell {
+		font-weight: 600;
+		color: var(--gg-secondary);
+	}
+
+	.specs {
+		background: #f9f9f9;
+		padding: 1rem;
+		border-radius: 8px;
+		margin-bottom: 1.5rem;
+	}
+
+	.specs h3 {
+		font-size: 1rem;
+		margin: 0 0 0.75rem 0;
+		color: #333;
+	}
+
+	.specs dl {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		gap: 0.5rem 1rem;
+		margin: 0;
+	}
+
+	.specs dt {
+		font-weight: 600;
+		color: #666;
+		font-size: 0.85rem;
+	}
+
+	.specs dd {
+		margin: 0;
+		color: #333;
+	}
+
+	.actions {
+		margin-top: 1.5rem;
+	}
+
+	.btn-primary {
+		display: inline-block;
+		padding: 0.75rem 2rem;
+		background: var(--gg-secondary);
+		color: white;
+		text-decoration: none;
+		border-radius: 6px;
+		font-weight: 600;
+		transition: background 0.2s;
+	}
+
+	.btn-primary:hover {
+		background: #b8911f;
+	}
+</style>

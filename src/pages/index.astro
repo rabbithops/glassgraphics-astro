@@ -1,0 +1,318 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import products from "../data/products/index.json";
+
+// Get all active products for initial render
+const allProducts = products.filter((p: any) => p.active);
+const allTags = [
+	"awards",
+	"barware",
+	"vintners",
+	"crystal",
+	"glass",
+	"silver",
+	"ceramic",
+	"wood",
+	"promotional",
+	"canister",
+];
+---
+
+<BaseLayout title="Home">
+	<!-- Category Filter Pills -->
+	<div class="category-pills-section">
+		<div class="category-pills" id="filter-pills">
+			<button class="pill active" data-tag="">All</button>
+			{
+				allTags.map((tag) => (
+					<button class="pill" data-tag={tag}>
+						{tag.charAt(0).toUpperCase() + tag.slice(1)}
+						<span class="pill-x" aria-hidden="true">
+							×
+						</span>
+					</button>
+				))
+			}
+		</div>
+	</div>
+
+	<!-- Active Filters Display -->
+	<div class="active-filters" id="active-filters" style="display: none;">
+		<span class="active-filters-label">Active filters:</span>
+		<div class="active-filter-pills" id="active-filter-pills"></div>
+		<button class="clear-all-btn" id="clear-all-btn">Clear all</button>
+	</div>
+
+	<p class="results-count" id="results-count">
+		Showing <span id="product-count">{allProducts.length}</span> products
+	</p>
+
+	<!-- Products Grid -->
+	<div class="product-grid" id="product-grid">
+		{
+			allProducts.map((product: any) => (
+				<a
+					href={`/products/${product.slug}`}
+					class="product-card"
+					data-tags={product.tags.join(",")}
+					data-name={product.name.toLowerCase()}
+					data-skus={product.variants
+						.map((v: any) => v.sku.toLowerCase())
+						.join(",")}
+				>
+					<img
+						src={
+							product.images[0]?.src || "/images/placeholder.svg"
+						}
+						alt={product.name}
+						loading="lazy"
+					/>
+					<div class="product-card-content">
+						<h3>{product.name}</h3>
+						<span class="sku">SKU: {product.variants[0]?.sku}</span>
+						<div class="price">
+							{product.variants.length > 1 ? "From " : ""}$
+							{Math.min(
+								...product.variants.map((v: any) => v.price)
+							).toFixed(2)}
+						</div>
+					</div>
+				</a>
+			))
+		}
+	</div>
+
+	<div id="no-results" class="no-results" style="display: none;">
+		<p>No products found matching your criteria.</p>
+		<button onclick="clearFilters()" class="outline">Clear Filters</button>
+	</div>
+</BaseLayout>
+
+<style>
+	.category-pills-section {
+		margin-bottom: 1rem;
+	}
+
+	.category-pills {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+	}
+
+	.results-count {
+		color: var(--gg-muted);
+		margin-bottom: 1rem;
+	}
+
+	.no-results {
+		text-align: center;
+		padding: 3rem;
+	}
+
+	/* Hidden cards need to be completely removed from column flow */
+	.product-card.hidden {
+		display: none !important;
+	}
+</style>
+
+<script is:inline>
+	// Run immediately - no waiting for DOMContentLoaded
+	(function () {
+		// Cache DOM elements
+		const searchInput = document.getElementById("search-input");
+		const filterPills = document.querySelectorAll("#filter-pills .pill");
+		const productCards = document.querySelectorAll(".product-card");
+		const productCount = document.getElementById("product-count");
+		const noResults = document.getElementById("no-results");
+		const productGrid = document.getElementById("product-grid");
+		const activeFiltersContainer =
+			document.getElementById("active-filters");
+		const activeFilterPills = document.getElementById(
+			"active-filter-pills"
+		);
+		const clearAllBtn = document.getElementById("clear-all-btn");
+
+		let activeTag = "";
+		let searchQuery = "";
+
+		// Pre-cache product data for faster filtering
+		const productData = Array.from(productCards).map((card) => ({
+			element: card,
+			tags: (card.getAttribute("data-tags") || "").split(","),
+			name: card.getAttribute("data-name") || "",
+			skus: card.getAttribute("data-skus") || "",
+		}));
+
+		// Update active filters display
+		function updateActiveFilters() {
+			if (!activeFiltersContainer || !activeFilterPills) return;
+
+			activeFilterPills.innerHTML = "";
+			let hasFilters = false;
+
+			// Add tag filter pill
+			if (activeTag) {
+				hasFilters = true;
+				const tagPill = document.createElement("button");
+				tagPill.className = "active-filter-pill";
+				tagPill.innerHTML =
+					activeTag.charAt(0).toUpperCase() +
+					activeTag.slice(1) +
+					' <span class="remove-filter">×</span>';
+				tagPill.onclick = function () {
+					activeTag = "";
+					filterPills.forEach(function (p) {
+						p.classList.remove("active");
+					});
+					if (filterPills[0]) filterPills[0].classList.add("active");
+					filterProducts();
+				};
+				activeFilterPills.appendChild(tagPill);
+			}
+
+			// Add search filter pill
+			if (searchQuery) {
+				hasFilters = true;
+				const searchPill = document.createElement("button");
+				searchPill.className = "active-filter-pill search-pill";
+				searchPill.innerHTML =
+					'"' +
+					searchQuery +
+					'" <span class="remove-filter">×</span>';
+				searchPill.onclick = function () {
+					searchQuery = "";
+					if (searchInput) searchInput.value = "";
+					filterProducts();
+				};
+				activeFilterPills.appendChild(searchPill);
+			}
+
+			activeFiltersContainer.style.display = hasFilters ? "flex" : "none";
+		}
+
+		// Filter products - optimized
+		function filterProducts() {
+			let visibleCount = 0;
+
+			productData.forEach(({ element, tags, name, skus }) => {
+				const matchesTag = !activeTag || tags.includes(activeTag);
+				const matchesSearch =
+					!searchQuery ||
+					name.includes(searchQuery) ||
+					skus.includes(searchQuery);
+
+				if (matchesTag && matchesSearch) {
+					element.classList.remove("hidden");
+					visibleCount++;
+				} else {
+					element.classList.add("hidden");
+				}
+			});
+
+			// Update count
+			if (productCount) {
+				productCount.textContent = visibleCount.toString();
+			}
+
+			// Show/hide no results
+			if (noResults && productGrid) {
+				noResults.style.display = visibleCount === 0 ? "block" : "none";
+				productGrid.style.display =
+					visibleCount === 0 ? "none" : "block";
+			}
+
+			// Update active filters display
+			updateActiveFilters();
+		}
+
+		// Handle pill clicks
+		filterPills.forEach(function (pill) {
+			pill.addEventListener("click", function (e) {
+				// Check if clicking the X button
+				if (e.target.classList.contains("pill-x")) {
+					// If this pill is active, clear the filter
+					if (
+						pill.classList.contains("active") &&
+						pill.getAttribute("data-tag")
+					) {
+						activeTag = "";
+						filterPills.forEach(function (p) {
+							p.classList.remove("active");
+						});
+						if (filterPills[0])
+							filterPills[0].classList.add("active");
+						filterProducts();
+						return;
+					}
+				}
+
+				filterPills.forEach(function (p) {
+					p.classList.remove("active");
+				});
+				pill.classList.add("active");
+				activeTag = pill.getAttribute("data-tag") || "";
+				filterProducts();
+			});
+		});
+
+		// Handle search input with debounce
+		let searchTimeout;
+		if (searchInput) {
+			searchInput.addEventListener("input", function (e) {
+				clearTimeout(searchTimeout);
+				searchTimeout = setTimeout(function () {
+					searchQuery = e.target.value.toLowerCase().trim();
+					filterProducts();
+				}, 100);
+			});
+
+			searchInput.addEventListener("keypress", function (e) {
+				if (e.key === "Enter") e.preventDefault();
+			});
+		}
+
+		// Clear all button
+		if (clearAllBtn) {
+			clearAllBtn.addEventListener("click", function () {
+				window.clearFilters();
+			});
+		}
+
+		// Global clear function
+		window.clearFilters = function () {
+			activeTag = "";
+			searchQuery = "";
+			if (searchInput) searchInput.value = "";
+			filterPills.forEach(function (p) {
+				p.classList.remove("active");
+			});
+			if (filterPills[0]) filterPills[0].classList.add("active");
+			filterProducts();
+		};
+
+		// Check URL params
+		const urlParams = new URLSearchParams(window.location.search);
+		const tagParam = urlParams.get("tag");
+		const searchParam = urlParams.get("search");
+
+		if (tagParam) {
+			activeTag = tagParam;
+			filterPills.forEach(function (p) {
+				p.classList.remove("active");
+				if (p.getAttribute("data-tag") === tagParam) {
+					p.classList.add("active");
+				}
+			});
+		}
+
+		if (searchParam && searchInput) {
+			searchQuery = searchParam.toLowerCase();
+			searchInput.value = searchParam;
+		}
+
+		// Initial filter if params exist
+		if (tagParam || searchParam) {
+			filterProducts();
+		}
+	})();
+</script>

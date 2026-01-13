@@ -1,0 +1,135 @@
+---
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const {
+	title,
+	description = "Glass Graphics - Premium Crystal & Glass Personalization",
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-theme="light">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content={description} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+		<!-- Pico CSS -->
+		<link
+			rel="stylesheet"
+			href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+		/>
+
+		<!-- Custom Styles -->
+		<link rel="stylesheet" href="/styles/custom.css" />
+
+		<!-- Google Fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap"
+			rel="stylesheet"
+		/>
+
+		<title>{title} | Glass Graphics</title>
+	</head>
+	<body>
+		<div class="top-bar">
+			<div class="container top-bar-content">
+				<div class="top-bar-left">
+					<a
+						href="https://www.facebook.com/glassgraphics/"
+						target="_blank"
+						rel="noopener"
+						class="social-link"
+						aria-label="Facebook"
+					>
+						<svg
+							xmlns="http://www.w3.org/2000/svg"
+							width="16"
+							height="16"
+							viewBox="0 0 24 24"
+							fill="currentColor"
+							><path
+								d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"
+							></path></svg
+						>
+					</a>
+				</div>
+				<div class="top-bar-center">
+					<span class="top-bar-address"
+						>56 Pleasant St, Conway, NH 03818</span
+					>
+				</div>
+				<div class="top-bar-right">
+					<a href="tel:+16034471900" class="top-bar-phone"
+						>(603) 447-1900</a
+					>
+				</div>
+			</div>
+		</div>
+		<header class="site-header">
+			<nav class="container header-nav">
+				<div class="header-brand">
+					<a href="/" class="logo">
+						<img
+							src="/images/logo.png"
+							alt="Glass Graphics"
+							height="60"
+						/>
+					</a>
+				</div>
+
+				<div class="search-container">
+					<input
+						type="search"
+						id="search-input"
+						placeholder="Search products or SKU..."
+						aria-label="Search products"
+					/>
+				</div>
+
+				<ul class="header-links">
+					<li><a href="/about">About</a></li>
+					<li><a href="/contact">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main class="container">
+			<slot />
+		</main>
+
+		<footer class="container">
+			<hr />
+			<p>
+				<small>
+					© {new Date().getFullYear()} Glass Graphics. Premium crystal and
+					glass personalization since 1985.
+				</small>
+			</p>
+		</footer>
+
+		<script is:inline>
+			// Search functionality
+			document.addEventListener("DOMContentLoaded", function () {
+				var searchInput = document.getElementById("search-input");
+				if (searchInput) {
+					searchInput.addEventListener("keypress", function (e) {
+						if (e.key === "Enter") {
+							var query = e.target.value.trim();
+							if (query) {
+								window.location.href =
+									"/?search=" + encodeURIComponent(query);
+							}
+						}
+					});
+				}
+			});
+		</script>
+	</body>
+</html>

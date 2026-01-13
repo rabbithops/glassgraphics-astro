@@ -1,0 +1,3427 @@
+[
+    {
+        "id": "11oz-c-handle-mugs",
+        "name": "11oz C-Handle Mugs",
+        "slug": "11oz-c-handle-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/C-Handle-Mugs.jpg",
+                "alt": "11oz C-Handle Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "J50",
+                "name": "11 0z C-Handle Mug Black",
+                "price": 16.5,
+                "dimensions": "3.75\"H",
+                "engravingArea": "2\"x2\"H"
+            },
+            {
+                "sku": "J52",
+                "name": "11 0z C-Handle Mug Cobalt",
+                "price": 16.5,
+                "dimensions": "3.75\"H",
+                "engravingArea": "2\"x2\"H"
+            },
+            {
+                "sku": "J53",
+                "name": "11 0z C-Handle Mug Burgundy",
+                "price": 16.5,
+                "dimensions": "3.75\"H",
+                "engravingArea": "2\"x2\"H"
+            },
+            {
+                "sku": "J59",
+                "name": "11 0z C-Handle Mug Red W/White In",
+                "price": 16.5,
+                "dimensions": "3.75\"H",
+                "engravingArea": "2\"x2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1443",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/C-Handle-Mugs.jpg"
+    },
+    {
+        "id": "14oz-salem-mugs",
+        "name": "14oz Salem Mugs",
+        "slug": "14oz-salem-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/Salem-Mugs.jpg",
+                "alt": "14oz Salem Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G101",
+                "name": "14 oz Salem Mug Ocean Blue W/Black Trim",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G102",
+                "name": "14 oz Salem Mug Green W/Black Trim",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G103",
+                "name": "14 oz Salem Mug Yellow W/Black Trim",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G104",
+                "name": "14 oz Salem Mug Red W/Black Rim",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G105",
+                "name": "14 oz Salem Mug Orange W/Black Trim",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G116",
+                "name": "14oz Salem mug - plum",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G117",
+                "name": "14oz Salem mug - maroon",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G118",
+                "name": "14 0z Salem mug - midnight blue",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G119",
+                "name": "14 oz Salem mug - black",
+                "price": 18.75,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1435",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/Salem-Mugs.jpg"
+    },
+    {
+        "id": "15oz-campfire-mugs",
+        "name": "15oz Campfire Mugs",
+        "slug": "15oz-campfire-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/Campfire-Mugs.jpg",
+                "alt": "15oz Campfire Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G26",
+                "name": "15 oz Campfire Mug-Speckled Light Blue / White In",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G27",
+                "name": "15 oz Campfire Mug-Speckled Green /Green In",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G28",
+                "name": "15 oz Campfire Mug-Speckled Black",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G29",
+                "name": "15 oz Campfire Mug - plum / plum",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G31",
+                "name": "15 oz Campfire Mug-Speckled Burgundy /White In",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G33",
+                "name": "15 oz Campfire Mug-Speckled Red /White In",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            },
+            {
+                "sku": "G47",
+                "name": "15 oz Campfire Mug-Speckled Cobalt W/White In",
+                "price": 18.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "3\"x2.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1437",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/Campfire-Mugs.jpg"
+    },
+    {
+        "id": "15oz-ceramic-beverage-cups",
+        "name": "15oz Ceramic Beverage Cups",
+        "slug": "15oz-ceramic-beverage-cups",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/M61_M62_M63_M64_updated-scaled.jpg",
+                "alt": "15oz Ceramic Beverage Cups"
+            }
+        ],
+        "tags": [
+            "ceramic"
+        ],
+        "variants": [
+            {
+                "sku": "M61",
+                "name": "15 oz ceramic beverage cup - tan to beige",
+                "price": 18.75,
+                "dimensions": "3.75\" H",
+                "engravingArea": "2.25\" D"
+            },
+            {
+                "sku": "M62",
+                "name": "15 oz ceramic beverage cup - rust to beige",
+                "price": 18.75,
+                "dimensions": "3.75\" H",
+                "engravingArea": "2.25\" D"
+            },
+            {
+                "sku": "M63",
+                "name": "15 oz ceramic beverage cup - blue to tan",
+                "price": 18.75,
+                "dimensions": "3.75\" H",
+                "engravingArea": "2.25\" D"
+            },
+            {
+                "sku": "M64",
+                "name": "15 oz ceramic beverage cup - blue to green",
+                "price": 18.75,
+                "dimensions": "3.75\" H",
+                "engravingArea": "2.25\" D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1452",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/M61_M62_M63_M64_updated-scaled.jpg"
+    },
+    {
+        "id": "15oz-speckled-bistro-mugs",
+        "name": "15oz Speckled Bistro Mugs",
+        "slug": "15oz-speckled-bistro-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/15-oz-Speckled-bistro-Mugs.jpg",
+                "alt": "15oz Speckled Bistro Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G86",
+                "name": "15oz Bistro Mug-Speckled Light Blue W/White In",
+                "price": 18.75,
+                "dimensions": "3.75\"x4.25\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G87",
+                "name": "15oz Bistro Mug-Speckled Red W/White In",
+                "price": 18.75,
+                "dimensions": "3.75\"x4.25\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G89",
+                "name": "15oz Bistro Mug-Speckled Green",
+                "price": 18.75,
+                "dimensions": "3.75\"x4.25\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G91",
+                "name": "15oz Bistro Mug-Speckled Black",
+                "price": 18.75,
+                "dimensions": "3.75\"x4.25\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G92",
+                "name": "15oz Bistro Mug-Speckled Cobalt",
+                "price": 18.75,
+                "dimensions": "3.75\"x4.25\"H",
+                "engravingArea": "2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1446",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/15-oz-Speckled-bistro-Mugs.jpg"
+    },
+    {
+        "id": "16-oz-pint-and-15-oz-stemless-wine-glass-in-a-recyclable-canister-gift-tube",
+        "name": "16 oz pint and 15 oz stemless wine glass in a recyclable canister gift tube",
+        "slug": "16-oz-pint-and-15-oz-stemless-wine-glass-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/X08-ND11C2.jpg",
+                "alt": "16 oz pint and 15 oz stemless wine glass in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "vintners",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "X08ND11 C2",
+                "name": "16 oz pint and 15 oz stemless wine glass set in custom canister",
+                "price": 48.2,
+                "dimensions": "12.5 tall custom labeled canister",
+                "engravingArea": "1.5\u201dD"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1774",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/X08-ND11C2.jpg"
+    },
+    {
+        "id": "16-oz-pint-and-shot-glass-in-a-recyclable-canister-gift-tube",
+        "name": "16 oz pint and shot glass in a recyclable canister gift tube",
+        "slug": "16-oz-pint-and-shot-glass-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/X08-AA30C2.jpg",
+                "alt": "16 oz pint and shot glass in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "X08AA30 C2",
+                "name": "16 oz pint and shot glass set in custom canister",
+                "price": 48.2,
+                "dimensions": "9.5\" tall custom labeled canister",
+                "engravingArea": "2.5\u201d x 3\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1772",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/X08-AA30C2.jpg"
+    },
+    {
+        "id": "16-oz-pint-set-in-a-recyclable-canister-gift-tube",
+        "name": "16 oz Pint Set in a recyclable canister gift tube",
+        "slug": "16-oz-pint-set-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/X08C2.jpg",
+                "alt": "16 oz Pint Set in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "X08 C2",
+                "name": "16 oz pint set of 2 custom canister",
+                "price": 48.2,
+                "dimensions": "12.5\" tall custom labeled canister",
+                "engravingArea": "2.5\u201d x 3\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1770",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/X08C2.jpg"
+    },
+    {
+        "id": "16oz-black-matte-bistro-mugs",
+        "name": "16oz Black Matte Bistro Mugs",
+        "slug": "16oz-black-matte-bistro-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/16oz-Black-Matte-Bistro-Mugs.jpg",
+                "alt": "16oz Black Matte Bistro Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "M19",
+                "name": "16oz Bistro Black Matte W/White In",
+                "price": 18.75,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "M21",
+                "name": "16oz Bistro Black Matte W/Blue In",
+                "price": 18.75,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "M22",
+                "name": "16oz Bistro Black Matte W/Orange In",
+                "price": 18.75,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "M23",
+                "name": "16oz Bistro Black Matte W/Orange In",
+                "price": 18.75,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1441",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/16oz-Black-Matte-Bistro-Mugs.jpg"
+    },
+    {
+        "id": "16oz-ceramic-gloucester-mug",
+        "name": "16oz Ceramic Gloucester Mugs",
+        "slug": "16oz-ceramic-gloucester-mug",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/M41-M44.jpg",
+                "alt": "16oz Ceramic Gloucester Mugs"
+            }
+        ],
+        "tags": [
+            "ceramic",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "M41",
+                "name": "16 oz chocolate brown Gloucester mug",
+                "price": 19.5,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "M42",
+                "name": "16 oz olive green Gloucester mug",
+                "price": 19.5,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "M43",
+                "name": "16 oz shale gray Gloucester mug",
+                "price": 19.5,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "M44",
+                "name": "16 oz steel blue Gloucester mug",
+                "price": 19.5,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1454",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/M41-M44.jpg"
+    },
+    {
+        "id": "16oz-retro-mugs",
+        "name": "16oz Retro Mugs",
+        "slug": "16oz-retro-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/16oz-Retro-Mug.jpg",
+                "alt": "16oz Retro Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G37",
+                "name": "16oz Retro Mug Red /White In",
+                "price": 19.92,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G38",
+                "name": "16oz Retro Mug Cobalt",
+                "price": 19.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G39",
+                "name": "16oz Retro Mug Black",
+                "price": 19.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G94",
+                "name": "16oz Retro Mug-Speckled Charcoal",
+                "price": 19.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "G96",
+                "name": "16oz Retro Mug-Speckled Sage",
+                "price": 19.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1448",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/16oz-Retro-Mug.jpg"
+    },
+    {
+        "id": "american-made-classics",
+        "name": "American made Classics",
+        "slug": "american-made-classics",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/B54-B55-B56-B57-GG-with-Wine.jpg",
+                "alt": "American made Classics"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "B54",
+                "name": "Wine Glass 12 Oz",
+                "price": 20.5,
+                "dimensions": "2.75\"x8\"H",
+                "engravingArea": "1.5\"D"
+            },
+            {
+                "sku": "B55",
+                "name": "Martini Glass 10 Oz",
+                "price": 20.5,
+                "dimensions": "4.75\"x8\"H",
+                "engravingArea": "1.5\"D"
+            },
+            {
+                "sku": "B56",
+                "name": "Wine Glass 16 Oz",
+                "price": 20.5,
+                "dimensions": "3\"x8.75\"H",
+                "engravingArea": "2\u201dW"
+            },
+            {
+                "sku": "B57",
+                "name": "Wine Glass 19 Oz",
+                "price": 20.5,
+                "dimensions": "3.25\"x9\"H",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1327",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/B54-B55-B56-B57-GG-with-Wine.jpg"
+    },
+    {
+        "id": "american-made-classics-2",
+        "name": "American Made Classics",
+        "slug": "american-made-classics-2",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/ND12-ND11.jpg",
+                "alt": "American Made Classics"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "ND11",
+                "name": "Stemless Wine Glass 15 Oz",
+                "price": 19.5,
+                "dimensions": "4.5\"H",
+                "engravingArea": "1.5\"D"
+            },
+            {
+                "sku": "ND12",
+                "name": "Stemless Wine Glass 21 Oz",
+                "price": 19.5,
+                "dimensions": "4.75\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1329",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/ND12-ND11.jpg"
+    },
+    {
+        "id": "daydream-art-deco-vase",
+        "name": "Art deco vase",
+        "slug": "daydream-art-deco-vase",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/H06.jpg",
+                "alt": "Art deco vase"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "H06",
+                "name": "9\" rectangle daydream vase",
+                "price": 103.5,
+                "dimensions": "9\" H",
+                "engravingArea": "3\u201dW x 5\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1726",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/H06.jpg"
+    },
+    {
+        "id": "art-glass-on-black-base",
+        "name": "Art Glass on Black Base",
+        "slug": "art-glass-on-black-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/i9nTAXbs-1-scaled.jpeg",
+                "alt": "Art Glass on Black Base"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "Q57",
+                "name": "Art Glass on Black Base",
+                "price": 104.5,
+                "dimensions": "3.25\u201dW x 1.5\u201dH",
+                "engravingArea": "2W x 1\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1921",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/i9nTAXbs-1-scaled.jpeg"
+    },
+    {
+        "id": "beveled-curved-crystal-standing-plaque",
+        "name": "Beveled Curved Crystal Standing Plaque",
+        "slug": "beveled-curved-crystal-standing-plaque",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/F17-F01-F18-F08-F07.jpg",
+                "alt": "Beveled Curved Crystal Standing Plaque"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "F01",
+                "name": "Beveled Curved Crystal Standing Plaque 7\" X 5\"",
+                "price": 39.98,
+                "dimensions": "7\"x5\"H",
+                "engravingArea": "5.5\"x3.5\"H"
+            },
+            {
+                "sku": "F07",
+                "name": "Beveled Curved Crystal Standing Plaque 12\" X 9\"",
+                "price": 100.5,
+                "dimensions": "12\"x9\"H",
+                "engravingArea": "10.5\"x7.25\"H"
+            },
+            {
+                "sku": "F08",
+                "name": "Beveled Curved Crystal Standing Plaque 10\" X 7\"",
+                "price": 83.5,
+                "dimensions": "10x7\"H",
+                "engravingArea": "8.5\"x5\"H"
+            },
+            {
+                "sku": "F17",
+                "name": "Beveled Curved Crystal Standing Plaque 6\" X 4\"",
+                "price": 39.98,
+                "dimensions": "5.25\"x4\"H",
+                "engravingArea": "4\"x2.5\"H"
+            },
+            {
+                "sku": "F18",
+                "name": "Beveled Curved Crystal Standing Plaque 8\" X 6\"",
+                "price": 55.75,
+                "dimensions": "7.5\"x6\"H",
+                "engravingArea": "6.25\"x4.25\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1610",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/F17-F01-F18-F08-F07.jpg"
+    },
+    {
+        "id": "beveled-curved-glass-in-stand-10-x-7",
+        "name": "Beveled Curved Glass In Stand 10\" X 7\"",
+        "slug": "beveled-curved-glass-in-stand-10-x-7",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/F81.jpg",
+                "alt": "Beveled Curved Glass In Stand 10\" X 7\""
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "F81",
+                "name": "Beveled Curved Glass In Stand 10\" X 7\"",
+                "price": 194.95,
+                "dimensions": "10\"x7\"H",
+                "engravingArea": "8.5\"x5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1612",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/F81.jpg"
+    },
+    {
+        "id": "black-beveled-mirrored-wall-plaque",
+        "name": "Black Beveled Mirrored Wall Plaque",
+        "slug": "black-beveled-mirrored-wall-plaque",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/P06-P07.jpg",
+                "alt": "Black Beveled Mirrored Wall Plaque"
+            }
+        ],
+        "tags": [
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "P06",
+                "name": "Black Beveled Mirrored Wall Plaque 8\"X10\"H",
+                "price": 128.5,
+                "dimensions": "8\"x10\"H",
+                "engravingArea": "6.5\"x9\"H"
+            },
+            {
+                "sku": "P07",
+                "name": "Black Beveled Mirrored Wall Plaque 9\"X12\"H",
+                "price": 144.5,
+                "dimensions": "9\"x12\"H",
+                "engravingArea": "8\"x11\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1648",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/P06-P07.jpg"
+    },
+    {
+        "id": "boutique-votive-candle-holder",
+        "name": "Boutique votive candle holder",
+        "slug": "boutique-votive-candle-holder",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/N22-N23-e1757946424155.jpg",
+                "alt": "Boutique votive candle holder"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "N23",
+                "name": "15 oz Flared square votive candle holder",
+                "price": 14.5,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1495",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/N22-N23-e1757946424155.jpg"
+    },
+    {
+        "id": "brandy-snifter-gin-glass-whiskey-glass",
+        "name": "Brandy Snifter, Gin Glass & Whiskey Glass",
+        "slug": "brandy-snifter-gin-glass-whiskey-glass",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CU04-CU08-CU09-1.jpg",
+                "alt": "Brandy Snifter, Gin Glass & Whiskey Glass"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "CU04",
+                "name": "21oz Brandy Snifter",
+                "price": 43.75,
+                "dimensions": "6\"H",
+                "engravingArea": "2\"W"
+            },
+            {
+                "sku": "CU08",
+                "name": "14.9oz stemless gin glass",
+                "price": 29.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2\"W"
+            },
+            {
+                "sku": "CU09",
+                "name": "6.5oz Glandala whiskey glass",
+                "price": 36.75,
+                "dimensions": "5\"H",
+                "engravingArea": "2\"W"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1355",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CU04-CU08-CU09-1.jpg"
+    },
+    {
+        "id": "bud-vase-patio-jar",
+        "name": "Bud Vase & Patio Jar with Metal Lid",
+        "slug": "bud-vase-patio-jar",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/N57S-AA54_updated-1-scaled.jpg",
+                "alt": "Bud Vase & Patio Jar with Metal Lid"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "AA54",
+                "name": "Bud Vase-Clear 7.5\"",
+                "price": 25.5,
+                "dimensions": "7.5\"H",
+                "engravingArea": "1.5\"x2.5\"H"
+            },
+            {
+                "sku": "N57S",
+                "name": "Patio Jar W/ Metal Lid 16 Oz",
+                "price": 36.95,
+                "dimensions": "4.5\"H",
+                "engravingArea": "3\"x1.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1640",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/N57S-AA54_updated-1-scaled.jpg"
+    },
+    {
+        "id": "candy-bowls",
+        "name": "Candy Bowl",
+        "slug": "candy-bowls",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/H04_Updated-scaled.jpg",
+                "alt": "Candy Bowl"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "H04",
+                "name": "Petite Candy Bowl",
+                "price": 78.5,
+                "dimensions": "3\"H",
+                "engravingArea": "2.5\"X1.5\" h"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1720",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/H04_Updated-scaled.jpg"
+    },
+    {
+        "id": "ceramic-hilo-soup-bowls",
+        "name": "Ceramic Hilo Soup Bowls",
+        "slug": "ceramic-hilo-soup-bowls",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/M01-M04.jpg",
+                "alt": "Ceramic Hilo Soup Bowls"
+            }
+        ],
+        "tags": [
+            "ceramic"
+        ],
+        "variants": [
+            {
+                "sku": "M01",
+                "name": "Hilo Soup Bowl - Yellow 12.5 Oz",
+                "price": 18.75,
+                "dimensions": "2.5\"H",
+                "engravingArea": "3\"x1.75\"H"
+            },
+            {
+                "sku": "M02",
+                "name": "Hilo Soup Bowl - Blue 12.5 Oz",
+                "price": 18.7,
+                "dimensions": "2.5\"H",
+                "engravingArea": "3\"x1.75\"H"
+            },
+            {
+                "sku": "M03",
+                "name": "Hilo Soup Bowl - Green 12.5 Oz",
+                "price": 18.75,
+                "dimensions": "2.5\"H",
+                "engravingArea": "3\"x1.75\"H"
+            },
+            {
+                "sku": "M04",
+                "name": "Hilo Soup Bowl - Red 12.5 Oz",
+                "price": 18.75,
+                "dimensions": "2.5\"H",
+                "engravingArea": "3\"x1.75\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1429",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/M01-M04.jpg"
+    },
+    {
+        "id": "ceramic-tavern-mugs",
+        "name": "Ceramic Tavern Mugs",
+        "slug": "ceramic-tavern-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/G109-G110-G112-G113.jpg",
+                "alt": "Ceramic Tavern Mugs"
+            }
+        ],
+        "tags": [
+            "ceramic",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G109",
+                "name": "Rustic Tavern mug - blue to green",
+                "price": 18.75,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G110",
+                "name": "Rustic Tavern mug - rust to beige",
+                "price": 18.75,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G112",
+                "name": "Rustic Tavern mug - blue to tan",
+                "price": 18.75,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            },
+            {
+                "sku": "G113",
+                "name": "Rustic Tavern mug - tan to beige",
+                "price": 18.75,
+                "dimensions": "4\" H",
+                "engravingArea": "2\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1423",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/G109-G110-G112-G113.jpg"
+    },
+    {
+        "id": "classic-clear-footed-bowls",
+        "name": "Classic Clear Footed Bowls",
+        "slug": "classic-clear-footed-bowls",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/MJ16-MJ17-MJ18.jpg",
+                "alt": "Classic Clear Footed Bowls"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "MJ16",
+                "name": "Classic Clear Footed Bowl 8\"D",
+                "price": 149.5,
+                "dimensions": "8\"",
+                "engravingArea": "3\u201dx2\u201dH"
+            },
+            {
+                "sku": "MJ17",
+                "name": "Classic Clear Footed Bowl 9\"D",
+                "price": 188.5,
+                "dimensions": "9\"",
+                "engravingArea": "3.5\u201d x 2.5\u201dH"
+            },
+            {
+                "sku": "MJ18",
+                "name": "Classic Clear Footed Bowl 11\"D",
+                "price": 225.5,
+                "dimensions": "11\"",
+                "engravingArea": "4\u201dx3\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1712",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ16-MJ17-MJ18.jpg"
+    },
+    {
+        "id": "colonial-tankard-maxim-mugs",
+        "name": "Colonial Tankard",
+        "slug": "colonial-tankard-maxim-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/AA32_Updated.jpg",
+                "alt": "Colonial Tankard"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "AA32",
+                "name": "Colonial Tankard 15 Oz.",
+                "price": 21.5,
+                "dimensions": "5\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1377",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/AA32_Updated.jpg"
+    },
+    {
+        "id": "crystal-arrowhead-award",
+        "name": "Crystal Arrowhead Award",
+        "slug": "crystal-arrowhead-award",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/Q40_Q41_Q42-1-scaled.jpg",
+                "alt": "Crystal Arrowhead Award"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "Q40",
+                "name": "Small Crystal Arrowhead Award",
+                "price": 70.5,
+                "dimensions": "3.625\u201dW X 4.5\u201dH",
+                "engravingArea": "2.25\u201dW x 3.25\u201dH"
+            },
+            {
+                "sku": "Q41",
+                "name": "Medium Crystal Arrowhead Award",
+                "price": 90,
+                "dimensions": "5.75\u201dW 6.25\u201dH",
+                "engravingArea": "3.5\u201dW x 4.5\u201dH"
+            },
+            {
+                "sku": "Q42",
+                "name": "Large Crystal Arrowhead Award",
+                "price": 120.5,
+                "dimensions": "6.875\u201dW x 8.75\u201dH",
+                "engravingArea": "5\u201dW x 6.5\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1915",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/Q40_Q41_Q42-1-scaled.jpg"
+    },
+    {
+        "id": "crystal-iceberg",
+        "name": "Crystal Iceberg",
+        "slug": "crystal-iceberg",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/9WtU-5VQ-scaled.jpeg",
+                "alt": "Crystal Iceberg"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "L08",
+                "name": "Crystal Iceburg 6\"",
+                "price": 100.98,
+                "dimensions": "6\"x5\"H",
+                "engravingArea": "3.5\u201d x 4\u201dH"
+            },
+            {
+                "sku": "Q71",
+                "name": "Optic Crystal Tall Iceburg",
+                "price": 97.5,
+                "dimensions": "5.5\"x7\"H",
+                "engravingArea": "2.5\"x4\"H"
+            },
+            {
+                "sku": "Q72",
+                "name": "Optic Crystal Iceburg",
+                "price": 97.5,
+                "dimensions": "7\"x5\"H",
+                "engravingArea": "4\"x2.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1604",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/9WtU-5VQ-scaled.jpeg"
+    },
+    {
+        "id": "crystal-paperweights",
+        "name": "Crystal Paperweights",
+        "slug": "crystal-paperweights",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/B25-J14-J15-J18.jpg",
+                "alt": "Crystal Paperweights"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "B25",
+                "name": "Oval Paperweight",
+                "price": 28.75,
+                "dimensions": "5\"H",
+                "engravingArea": "2\"H"
+            },
+            {
+                "sku": "J14",
+                "name": "Gem Cut Faceted Paperweight",
+                "price": 89.75,
+                "dimensions": "2.5\"D",
+                "engravingArea": "1.75\"D"
+            },
+            {
+                "sku": "J15",
+                "name": "Clear Optic Crystal Faceted Paperweight",
+                "price": 66.95,
+                "dimensions": "3\"D",
+                "engravingArea": "1.75\"D"
+            },
+            {
+                "sku": "J18",
+                "name": "Rectangle Paperweight",
+                "price": 89.75,
+                "dimensions": "2.5\"x3.5\"H",
+                "engravingArea": "1.25\"x2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1630",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/B25-J14-J15-J18.jpg"
+    },
+    {
+        "id": "crystal-rectangle-with-cobalt-accent",
+        "name": "Crystal Rectangle with Cobalt Accent",
+        "slug": "crystal-rectangle-with-cobalt-accent",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/NEW_J92_J93-1-scaled.jpg",
+                "alt": "Crystal Rectangle with Cobalt Accent"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "J92",
+                "name": "7.75\u201d Crystal Rectangle with Cobalt Accent",
+                "price": 185.5,
+                "dimensions": "7.75\u201dH",
+                "engravingArea": "3.75\u201d W x 4.25\u201d H"
+            },
+            {
+                "sku": "J93",
+                "name": "8.5\u201d Crystal Rectangle with Cobalt Accent",
+                "price": 195.5,
+                "dimensions": "8.5\u201dH",
+                "engravingArea": "4\u201d W x 5\u201d H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1933",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/NEW_J92_J93-1-scaled.jpg"
+    },
+    {
+        "id": "crystal-revere-bowls",
+        "name": "Crystal Revere Bowls",
+        "slug": "crystal-revere-bowls",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/MJ501-MJ502-MJ503.jpg",
+                "alt": "Crystal Revere Bowls"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "MJ501",
+                "name": "Small Crystal Revere Bowl",
+                "price": 73.5,
+                "dimensions": "5.5\"x3.5\"H",
+                "engravingArea": "2.75\u201dx1.75\u201dH"
+            },
+            {
+                "sku": "MJ502",
+                "name": "Medium Crystal Revere Bowl",
+                "price": 179.5,
+                "dimensions": "7.5\"x4.75\"H",
+                "engravingArea": "3\"x2\"H"
+            },
+            {
+                "sku": "MJ503",
+                "name": "Large Crystal Revere Bowl",
+                "price": 227.5,
+                "dimensions": "9\"x6\"H",
+                "engravingArea": "4\"x2.25\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1710",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ501-MJ502-MJ503.jpg"
+    },
+    {
+        "id": "crystalline-vase",
+        "name": "Crystalline Vase",
+        "slug": "crystalline-vase",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/MJ33-MJ34.jpg",
+                "alt": "Crystalline Vase"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "MJ33",
+                "name": "Crystalline Vase 10\"H",
+                "price": 264.5,
+                "dimensions": "10\"H",
+                "engravingArea": "2.25\u201dx2.75\u201dH"
+            },
+            {
+                "sku": "MJ34",
+                "name": "Crystalline Vase 12\"H",
+                "price": 333.5,
+                "dimensions": "12\"H",
+                "engravingArea": "3\u201d x 3.5\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1718",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ33-MJ34.jpg"
+    },
+    {
+        "id": "curved-crystal-standing-glass-frame-4-x-6",
+        "name": "Curved Crystal Standing Glass Frame 4\" X 6\"",
+        "slug": "curved-crystal-standing-glass-frame-4-x-6",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/F21.jpg",
+                "alt": "Curved Crystal Standing Glass Frame 4\" X 6\""
+            }
+        ],
+        "tags": [
+            "crystal",
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "F21",
+                "name": "Curved Crystal Standing Glass Frame 4\" X 6\"",
+                "price": 83.5,
+                "dimensions": "11\"x8\"H",
+                "engravingArea": "4\"x6\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1608",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/F21.jpg"
+    },
+    {
+        "id": "curved-crystal-standing-glass-frame-6-x-4",
+        "name": "Curved Crystal Standing Glass Frame 6\" X 4\"",
+        "slug": "curved-crystal-standing-glass-frame-6-x-4",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/F20.jpg",
+                "alt": "Curved Crystal Standing Glass Frame 6\" X 4\""
+            }
+        ],
+        "tags": [
+            "crystal",
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "F20",
+                "name": "Curved Crystal Standing Glass Frame 6\" X 4\"",
+                "price": 83.5,
+                "dimensions": "12.75\"x6.5\"H",
+                "engravingArea": "2.5\"x4\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1606",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/F20.jpg"
+    },
+    {
+        "id": "decorated-bottle-openers",
+        "name": "Decorated Bottle Openers",
+        "slug": "decorated-bottle-openers",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/J60-J61-J62.jpg",
+                "alt": "Decorated Bottle Openers"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "J60",
+                "name": "Rustic gold leathette bottle opener",
+                "price": 23.5,
+                "dimensions": "7\"",
+                "engravingArea": "1.25\"x3\""
+            },
+            {
+                "sku": "J61",
+                "name": "Black / silver leathette bottle opener",
+                "price": 23.5,
+                "dimensions": "7\"",
+                "engravingArea": "1.25\"x3\""
+            },
+            {
+                "sku": "J62",
+                "name": "Rawhide leatherette bottle opener",
+                "price": 23.5,
+                "dimensions": "7\"",
+                "engravingArea": "1.25\"x3\""
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1393",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/J60-J61-J62.jpg"
+    },
+    {
+        "id": "diamond-crystal-award-with-cobalt-base",
+        "name": "Diamond Crystal Award with Cobalt Base",
+        "slug": "diamond-crystal-award-with-cobalt-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/NEW_J89_J90_J91-1-scaled.jpg",
+                "alt": "Diamond Crystal Award with Cobalt Base"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "J89",
+                "name": "8\u201d Diamond Crystal Award with Cobalt Base",
+                "price": 225.5,
+                "dimensions": "8\u201dH",
+                "engravingArea": "2.25\u201d W x 2.75\u201d H"
+            },
+            {
+                "sku": "J90",
+                "name": "9.25\u201d Diamond Crystal Award with Cobalt Base",
+                "price": 235.5,
+                "dimensions": "9.25\u201dH",
+                "engravingArea": "3\u201d x 3.5\u201dH"
+            },
+            {
+                "sku": "J91",
+                "name": "10\u201d Diamond Crystal Award with Cobalt Base",
+                "price": 240,
+                "dimensions": "10\u201dH",
+                "engravingArea": "3\u201d W x 3.75\u201d H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1930",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/NEW_J89_J90_J91-1-scaled.jpg"
+    },
+    {
+        "id": "drinking-jar",
+        "name": "Drinking Jar",
+        "slug": "drinking-jar",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/AA82_updated.jpg",
+                "alt": "Drinking Jar"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "AA82",
+                "name": "Drinking Jar W/Handle 16 Oz",
+                "price": 16.5,
+                "dimensions": "5\"H",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1389",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/AA82_updated.jpg"
+    },
+    {
+        "id": "elegant-ice-buckets",
+        "name": "Elegant Ice Buckets",
+        "slug": "elegant-ice-buckets",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/MJ49_MJ50_Updated-scaled.jpg",
+                "alt": "Elegant Ice Buckets"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "MJ49",
+                "name": "Diamand Ice bucket",
+                "price": 108.95,
+                "dimensions": "6\" H",
+                "engravingArea": "3\" D"
+            },
+            {
+                "sku": "MJ50",
+                "name": "Squared Ice bucket",
+                "price": 131.95,
+                "dimensions": "5.75\" H",
+                "engravingArea": "3\" D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1361",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ49_MJ50_Updated-scaled.jpg"
+    },
+    {
+        "id": "emerald-crystal-whitfield-award",
+        "name": "Emerald Crystal Whitfield Award",
+        "slug": "emerald-crystal-whitfield-award",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/TB84-TB83-TB82.jpg",
+                "alt": "Emerald Crystal Whitfield Award"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "T82",
+                "name": "Md Emerald Crystal Whitfield Award 4\" X 6\"",
+                "price": 139.5,
+                "dimensions": "4\"x6\"H",
+                "engravingArea": "3\"x4\"H"
+            },
+            {
+                "sku": "T84",
+                "name": "Lg Emerald Crystal Whitfield Award 4\" x 7\"",
+                "price": 153.5,
+                "dimensions": "4\"x7\"H",
+                "engravingArea": "3\"x6\"H"
+            },
+            {
+                "sku": "T83",
+                "name": "Xl Emerald Crystal Whitfield Award 6\" x 8\"",
+                "price": 172.5,
+                "dimensions": "6\"x8\"H",
+                "engravingArea": "5\"x7\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1634",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/TB84-TB83-TB82.jpg"
+    },
+    {
+        "id": "extra-large-optic-crystal-book",
+        "name": "Extra Large Optic Crystal Book",
+        "slug": "extra-large-optic-crystal-book",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/Q94.jpg",
+                "alt": "Extra Large Optic Crystal Book"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "Q94",
+                "name": "Extra Large Optic Crystal Book",
+                "price": 181.75,
+                "dimensions": "5\"x6.5\"H",
+                "engravingArea": "4\"x5.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1628",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/Q94.jpg"
+    },
+    {
+        "id": "crystal-iceburg",
+        "name": "Fantasy Peak",
+        "slug": "crystal-iceburg",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/X01-X02-X03.jpg",
+                "alt": "Fantasy Peak"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "X01",
+                "name": "Small Fantasy Peak",
+                "price": 222.95,
+                "dimensions": "5\"x8\"H",
+                "engravingArea": "3\"x4\"H"
+            },
+            {
+                "sku": "X02",
+                "name": "Medium Fantasy Peak",
+                "price": 253.95,
+                "dimensions": "6\"x9\"H",
+                "engravingArea": "4.25\"x5.25\"H"
+            },
+            {
+                "sku": "X03",
+                "name": "Large Fantasy Peak",
+                "price": 305.95,
+                "dimensions": "7\"x10\"H",
+                "engravingArea": "6\"x7\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1576",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/X01-X02-X03.jpg"
+    },
+    {
+        "id": "flared-vase",
+        "name": "Flared Vase",
+        "slug": "flared-vase",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/N38-N39.jpg",
+                "alt": "Flared Vase"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "N38",
+                "name": "20.5 oz Flared Vase",
+                "price": 20.5,
+                "dimensions": "8.5\"H",
+                "engravingArea": "2\"x3\"H"
+            },
+            {
+                "sku": "N39",
+                "name": "32.75 oz Flared Vase",
+                "price": 25.95,
+                "dimensions": "9.75\"H",
+                "engravingArea": "9.75\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1491",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/N38-N39.jpg"
+    },
+    {
+        "id": "full-lead-crystal-vases",
+        "name": "Full Lead Crystal Vases",
+        "slug": "full-lead-crystal-vases",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/MJ23-MJ27.jpg",
+                "alt": "Full Lead Crystal Vases"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "MJ23",
+                "name": "Footed Full Lead Crystal Vase 10\"H",
+                "price": 418.5,
+                "dimensions": "10\"H",
+                "engravingArea": "2.5\u201dx3.5\u201dH"
+            },
+            {
+                "sku": "MJ27",
+                "name": "Full Lead Crystal Trophy Vase 14\"H",
+                "price": 575.5,
+                "dimensions": "14\"H",
+                "engravingArea": "3.5\u201dD"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1716",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ23-MJ27.jpg"
+    },
+    {
+        "id": "full-lead-hand-cut-crystal-vases",
+        "name": "Full Lead Hand Cut Crystal Vases",
+        "slug": "full-lead-hand-cut-crystal-vases",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/MJ19-MJ20-MJ22.jpg",
+                "alt": "Full Lead Hand Cut Crystal Vases"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "MJ19",
+                "name": "Full Lead Hand Cut Crystal Vase 8\"H",
+                "price": 250.5,
+                "dimensions": "8\"H",
+                "engravingArea": "2.5\u201dx3\u201d"
+            },
+            {
+                "sku": "MJ20",
+                "name": "Full Lead Hand Cut Crystal Vase 10\"H",
+                "price": 365.5,
+                "dimensions": "10\"H",
+                "engravingArea": "3\u201dx3.5\u201dH"
+            },
+            {
+                "sku": "MJ22",
+                "name": "Footed Full Lead Crystal Vase 8\"H",
+                "price": 244.5,
+                "dimensions": "8\"H",
+                "engravingArea": "2\u201dx2.5\u201dH"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1714",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ19-MJ20-MJ22.jpg"
+    },
+    {
+        "id": "fusion-slanted-vase",
+        "name": "Fusion Vase",
+        "slug": "fusion-slanted-vase",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/MJ46-scaled.jpg",
+                "alt": "Fusion Vase"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "MJ46",
+                "name": "Fusion vase 10\"",
+                "price": 172.5,
+                "dimensions": "10\"H",
+                "engravingArea": "3.25\"x5.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1724",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/MJ46-scaled.jpg"
+    },
+    {
+        "id": "game-day-glasses",
+        "name": "Game Day Glasses",
+        "slug": "game-day-glasses",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/Colored-wrap-around.jpg",
+                "alt": "Game Day Glasses"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "X08-B",
+                "name": "Blue gameday 16 oz pub glass",
+                "price": 23.5,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\"W"
+            },
+            {
+                "sku": "X08-G",
+                "name": "green gameday 16 oz pub glass",
+                "price": 23.5,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\"W"
+            },
+            {
+                "sku": "X08-LB",
+                "name": "Light blue gameday 16 oz pub glass",
+                "price": 22.98,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\"W"
+            },
+            {
+                "sku": "X08-M",
+                "name": "Maroon gameday 16 oz pub glass",
+                "price": 23.5,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\"W"
+            },
+            {
+                "sku": "X08-R",
+                "name": "Red Gameday 16 oz pub glass",
+                "price": 23.5,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\"W"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1397",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/Colored-wrap-around.jpg"
+    },
+    {
+        "id": "glass-mugs",
+        "name": "Glass Mug",
+        "slug": "glass-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/AA37_Updated-scaled.jpg",
+                "alt": "Glass Mug"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "AA37",
+                "name": "Clear Glass Mug 13 Oz.",
+                "price": 20.95,
+                "dimensions": "4\"H",
+                "engravingArea": "2.25\"x2.75\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1456",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/AA37_Updated-scaled.jpg"
+    },
+    {
+        "id": "glass-pitcher-carafe-set",
+        "name": "Glass Pitcher & Carafe Set",
+        "slug": "glass-pitcher-carafe-set",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/N44_N45_Updated-scaled.jpg",
+                "alt": "Glass Pitcher & Carafe Set"
+            }
+        ],
+        "tags": [
+            "glass",
+            "vintners",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "N44",
+                "name": "Carafe 1/2 Ltr",
+                "price": 26.5,
+                "dimensions": "9\"H",
+                "engravingArea": "2.25\"x2.5\"H"
+            },
+            {
+                "sku": "N45",
+                "name": "Carafe 1 Ltr",
+                "price": 43.5,
+                "dimensions": "11\"H",
+                "engravingArea": "3\"x3.25\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1337",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/N44_N45_Updated-scaled.jpg"
+    },
+    {
+        "id": "farrington-triangle-globe-column-award",
+        "name": "Globe Column Award",
+        "slug": "farrington-triangle-globe-column-award",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/K50_Updated-scaled.jpg",
+                "alt": "Globe Column Award"
+            }
+        ],
+        "tags": [
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "K50",
+                "name": "Globe Column Award 1.5\" Thick",
+                "price": 240.95,
+                "dimensions": "10\"H",
+                "engravingArea": "2.5\"x5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1626",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/K50_Updated-scaled.jpg"
+    },
+    {
+        "id": "hand-cut-decanter-rocks-glasses",
+        "name": "Hand Cut Decanter & Rocks Glasses",
+        "slug": "hand-cut-decanter-rocks-glasses",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/N42-MD06-MD02.jpg",
+                "alt": "Hand Cut Decanter & Rocks Glasses"
+            }
+        ],
+        "tags": [
+            "glass",
+            "vintners",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "N42",
+                "name": "11 oz Rocks glass",
+                "price": 22.5,
+                "dimensions": "3.5\"H",
+                "engravingArea": "1.75\"W"
+            },
+            {
+                "sku": "MD06",
+                "name": "Square Decanter 38 Oz",
+                "price": 299.5,
+                "dimensions": "11.5\"H",
+                "engravingArea": "2.25\"x3\"H"
+            },
+            {
+                "sku": "MD02",
+                "name": "Crystal Dof 14 Oz",
+                "price": 49.5,
+                "dimensions": "4\"H",
+                "engravingArea": "2.5\"x2.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1351",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/N42-MD06-MD02.jpg"
+    },
+    {
+        "id": "handcut-footed-revere-bowl",
+        "name": "Handcut Footed Revere Bowl",
+        "slug": "handcut-footed-revere-bowl",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/G74-G75-G76.jpg",
+                "alt": "Handcut Footed Revere Bowl"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "G74",
+                "name": "Small Handcut Footed Revere Bowl",
+                "price": 234.5,
+                "dimensions": "6\"x3.75\"H",
+                "engravingArea": "2\"x1.5\"H"
+            },
+            {
+                "sku": "G75",
+                "name": "Medium Handcut Footed Revere Bowl",
+                "price": 368.5,
+                "dimensions": "7.5\"x5\"H",
+                "engravingArea": "3\"x2\"H"
+            },
+            {
+                "sku": "G76",
+                "name": "Large Handcut Footed Revere Bowl",
+                "price": 496.5,
+                "dimensions": "9\"x6.5\"H",
+                "engravingArea": "4\"x3\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1708",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/G74-G75-G76.jpg"
+    },
+    {
+        "id": "black-bottom-base",
+        "name": "Hardwood Base",
+        "slug": "black-bottom-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/KF01-KF02.jpg",
+                "alt": "Hardwood Base"
+            }
+        ],
+        "tags": [
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "KF01",
+                "name": "Small Hardwood Base",
+                "price": 73.5,
+                "dimensions": "5\"x5\"x2.5\"H",
+                "engravingArea": "3.5\"D"
+            },
+            {
+                "sku": "KF02",
+                "name": "Med Hardwood Base",
+                "price": 88.5,
+                "dimensions": "6\"x6\"x2.5\"H",
+                "engravingArea": "4.5\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1732",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/KF01-KF02.jpg"
+    },
+    {
+        "id": "hardwood-base",
+        "name": "Hardwood Base",
+        "slug": "hardwood-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/KF03-KF04.jpg",
+                "alt": "Hardwood Base"
+            }
+        ],
+        "tags": [
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "KF03",
+                "name": "Lg Hardwood Base",
+                "price": 113.98,
+                "dimensions": "7\"x7\"x2.5\"H",
+                "engravingArea": "7\"x7\"x2.5\"H"
+            },
+            {
+                "sku": "KF04",
+                "name": "XL Hardwood Base",
+                "price": 126.5,
+                "dimensions": "8\"X8\"x2.5\"H",
+                "engravingArea": "7\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1734",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/KF03-KF04.jpg"
+    },
+    {
+        "id": "highball-cooler-can-pub-glasses",
+        "name": "Highball, Can & Pub Glasses",
+        "slug": "highball-cooler-can-pub-glasses",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/X07_X04_X08_Updated-scaled.jpg",
+                "alt": "Highball, Can & Pub Glasses"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "X07",
+                "name": "Highball 10 Oz",
+                "price": 19.5,
+                "dimensions": "5.5\"H",
+                "engravingArea": "2\"x3\"H"
+            },
+            {
+                "sku": "X08",
+                "name": "16oz Pub Glass",
+                "price": 23.5,
+                "dimensions": "6\"H",
+                "engravingArea": "2.5\u201dW"
+            },
+            {
+                "sku": "X04",
+                "name": "16oz Can Glass",
+                "price": 19.5,
+                "dimensions": "4.75\u201dH",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1383",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/X07_X04_X08_Updated-scaled.jpg"
+    },
+    {
+        "id": "jade-crystal-curved-plaque",
+        "name": "Jade Crystal Curved Plaque",
+        "slug": "jade-crystal-curved-plaque",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/F41_F42_Updated-scaled.jpg",
+                "alt": "Jade Crystal Curved Plaque"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "F41",
+                "name": "Medium 1/2\" Jade Crystal Curved Plaque",
+                "price": 144.98,
+                "dimensions": "11\"x6\"H",
+                "engravingArea": "10\"x5.5\"H"
+            },
+            {
+                "sku": "F42",
+                "name": "Large 1/2\" Jade Crystal Curved Plaque",
+                "price": 174.95,
+                "dimensions": "13\"x7\"H",
+                "engravingArea": "10\"x5.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1624",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/F41_F42_Updated-scaled.jpg"
+    },
+    {
+        "id": "krystof-crystal-buckingham-collection",
+        "name": "Krystof Crystal Buckingham Collection",
+        "slug": "krystof-crystal-buckingham-collection",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/2vgRPDoM-1-scaled.jpeg",
+                "alt": "Krystof Crystal Buckingham Collection"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "KC55",
+                "name": "Krystof Crystal Buckingham Collection Hand-Cut Small Ice Tub",
+                "price": 220.5,
+                "dimensions": "9.25\u201d x 7.25\u201dH",
+                "engravingArea": "3\u201dD"
+            },
+            {
+                "sku": "KC56",
+                "name": "Krystof Crystal Buckingham Collection Hand-cut Large Champagne Bucket",
+                "price": 330.5,
+                "dimensions": "10\u201d x 9.25\u201dH",
+                "engravingArea": "4\u201dD"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1918",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/2vgRPDoM-1-scaled.jpeg"
+    },
+    {
+        "id": "large-rosewood-finish-bureau-box",
+        "name": "Large Rosewood Finish Bureau Box",
+        "slug": "large-rosewood-finish-bureau-box",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/WD47.jpg",
+                "alt": "Large Rosewood Finish Bureau Box"
+            }
+        ],
+        "tags": [
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "WD47",
+                "name": "Large Rosewood Finish Bureau Box",
+                "price": 115.5,
+                "dimensions": "9\"x5.5\"x2\"H",
+                "engravingArea": "7\"x4\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1738",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/WD47.jpg"
+    },
+    {
+        "id": "leatherette-wallet-clip",
+        "name": "Leatherette Wallet Clip",
+        "slug": "leatherette-wallet-clip",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/J82-scaled.jpeg",
+                "alt": "Leatherette Wallet Clip"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "J82",
+                "name": "Black/silver leatherette wallet clip",
+                "price": 23.5,
+                "dimensions": "4\"Wx2.5\"H",
+                "engravingArea": "3.5\"x1.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1740",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/J82-scaled.jpeg"
+    },
+    {
+        "id": "maple-cutting-board",
+        "name": "Maple Cutting Board",
+        "slug": "maple-cutting-board",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/K70-K71.jpg",
+                "alt": "Maple Cutting Board"
+            }
+        ],
+        "tags": [
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "K70",
+                "name": "Maple Rectangle Cutting Board",
+                "price": 44.98,
+                "dimensions": "10x6\"H",
+                "engravingArea": "3\"D"
+            },
+            {
+                "sku": "K71",
+                "name": "Maple Square Cutting Board",
+                "price": 51.5,
+                "dimensions": "9.25x9.25\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1503",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/K70-K71.jpg"
+    },
+    {
+        "id": "marble-coasters-britannia-mug",
+        "name": "Marble Coasters & Britannia Mug",
+        "slug": "marble-coasters-britannia-mug",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/B30-HE19.jpg",
+                "alt": "Marble Coasters & Britannia Mug"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "HE19",
+                "name": "Square gray marble coaster set of 4",
+                "price": 45.95,
+                "dimensions": "4\" D",
+                "engravingArea": "2\" W"
+            },
+            {
+                "sku": "B30",
+                "name": "Brittannia Mug 19 Oz",
+                "price": 20.95,
+                "dimensions": "5\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1387",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/B30-HE19.jpg"
+    },
+    {
+        "id": "military-mug",
+        "name": "Military Mugs",
+        "slug": "military-mug",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/M51-M55.jpg",
+                "alt": "Military Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "M51",
+                "name": "19 oz black Military mug",
+                "price": 19.5,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2.5\" D"
+            },
+            {
+                "sku": "M52",
+                "name": "19 oz blue Military mug",
+                "price": 19.5,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2.5\" D"
+            },
+            {
+                "sku": "M53",
+                "name": "19 oz red Military mug",
+                "price": 19.5,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2.5\" D"
+            },
+            {
+                "sku": "M54",
+                "name": "19 oz Aqua Military mug",
+                "price": 19.5,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2.5\" D"
+            },
+            {
+                "sku": "M55",
+                "name": "19 oz Hawaiian blue Military mug",
+                "price": 19.5,
+                "dimensions": "4.5\" H",
+                "engravingArea": "2.5\" D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1750",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/M51-M55.jpg"
+    },
+    {
+        "id": "optic-crystal-arrowhead-2",
+        "name": "Optic Crystal Arrowhead",
+        "slug": "optic-crystal-arrowhead-2",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/C30-C31-C32.jpg",
+                "alt": "Optic Crystal Arrowhead"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "C30",
+                "name": "Optic Crystal Arrowhead 5\"",
+                "price": 77.95,
+                "dimensions": "5.25\"",
+                "engravingArea": "2\"x2.5\"H"
+            },
+            {
+                "sku": "C31",
+                "name": "Optic Crystal Arrowhead 6\"",
+                "price": 105.95,
+                "dimensions": "6.25\"",
+                "engravingArea": "2.5\"x3\"H"
+            },
+            {
+                "sku": "C32",
+                "name": "Optic Crystal Arrowhead 7\"",
+                "price": 133.95,
+                "dimensions": "6.75\"",
+                "engravingArea": "3.75\"x3.75\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1618",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/C30-C31-C32.jpg"
+    },
+    {
+        "id": "optic-crystal-disc-w-base",
+        "name": "Optic Crystal Disc W/Base",
+        "slug": "optic-crystal-disc-w-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/C52_Updated-scaled.jpg",
+                "alt": "Optic Crystal Disc W/Base"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "C52",
+                "name": "Optic Crystal Disc W/Base 7\"",
+                "price": 125.5,
+                "dimensions": "6.75\"H",
+                "engravingArea": "3.75\"x3.75\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1620",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/C52_Updated-scaled.jpg"
+    },
+    {
+        "id": "ornaments",
+        "name": "Ornaments",
+        "slug": "ornaments",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/S03-S04-S05.jpg",
+                "alt": "Ornaments"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "S03",
+                "name": "Round Ornament 3\"",
+                "price": 23.98,
+                "dimensions": "3\"D",
+                "engravingArea": "2\"D"
+            },
+            {
+                "sku": "S04",
+                "name": "Tree Ornament 3.5\"",
+                "price": 23.98,
+                "dimensions": "3.25x3.75\"H",
+                "engravingArea": "2\"D"
+            },
+            {
+                "sku": "S05",
+                "name": "Oval Ornament 3.75\"",
+                "price": 23.98,
+                "dimensions": "2.75x3.75\"H",
+                "engravingArea": "2\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1644",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/S03-S04-S05.jpg"
+    },
+    {
+        "id": "oval-halo-glass-award-with-black-base",
+        "name": "Oval Halo Glass Award with Black Base",
+        "slug": "oval-halo-glass-award-with-black-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/NEW_J87_J88-1-scaled.jpg",
+                "alt": "Oval Halo Glass Award with Black Base"
+            }
+        ],
+        "tags": [
+            "glass",
+            "awards",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "J87",
+                "name": "8\u201d Oval Halo Glass Award with Black Base",
+                "price": 195.5,
+                "dimensions": "8\u201dH",
+                "engravingArea": "2.75\u201d W x 4\u201d H"
+            },
+            {
+                "sku": "J88",
+                "name": "8.75\u201d Oval Halo Glass Award with Black Base",
+                "price": 205.5,
+                "dimensions": "8.75\u201dH",
+                "engravingArea": "3\u201d W x 4.5\u201d H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1924",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/09/NEW_J87_J88-1-scaled.jpg"
+    },
+    {
+        "id": "oval-silver-plated-tray",
+        "name": "Oval silver plated tray",
+        "slug": "oval-silver-plated-tray",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/C14.jpg",
+                "alt": "Oval silver plated tray"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "C14",
+                "name": "Oval silver plated tray",
+                "price": 31.5,
+                "dimensions": "6\" x 4\" H",
+                "engravingArea": "5\" x 3\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1544",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/C14.jpg"
+    },
+    {
+        "id": "pilsner-glassware",
+        "name": "Pilsner Glassware",
+        "slug": "pilsner-glassware",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/p0c6wAfm-scaled.jpeg",
+                "alt": "Pilsner Glassware"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "B08",
+                "name": "Classic Pilsner 16 Oz",
+                "price": 21.5,
+                "dimensions": "9\"H",
+                "engravingArea": "2\"x3\"H"
+            },
+            {
+                "sku": "B36",
+                "name": "University Pilsner 23 Oz",
+                "price": 16.5,
+                "dimensions": "3.25\"x9\"H",
+                "engravingArea": "2.25\"x2\"H"
+            },
+            {
+                "sku": "AA02",
+                "name": "Giant Pilsner 23 Oz",
+                "price": 20.5,
+                "dimensions": "9\"H",
+                "engravingArea": "2.25\"x2\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1379",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/p0c6wAfm-scaled.jpeg"
+    },
+    {
+        "id": "ravenscroft-polish-crystal-titanium-collection",
+        "name": "Ravenscroft Polish Crystal Titanium Collection",
+        "slug": "ravenscroft-polish-crystal-titanium-collection",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/RT21_RT25_New-scaled.jpg",
+                "alt": "Ravenscroft Polish Crystal Titanium Collection"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "RT21",
+                "name": "25.5oz Bordeaux Wine Glass",
+                "price": 22.95,
+                "dimensions": "10.5\"H",
+                "engravingArea": "2\"W"
+            },
+            {
+                "sku": "RT25",
+                "name": "7.75 oz Champagne Flute",
+                "price": 22.95,
+                "dimensions": "9.75\"H",
+                "engravingArea": "1.5\"W"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1321",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/RT21_RT25_New-scaled.jpg"
+    },
+    {
+        "id": "rosewood-finish-bureau-box",
+        "name": "Rosewood Finish Bureau Box",
+        "slug": "rosewood-finish-bureau-box",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/WD19.jpg",
+                "alt": "Rosewood Finish Bureau Box"
+            }
+        ],
+        "tags": [
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "WD19",
+                "name": "Rosewood Finish Bureau Box",
+                "price": 98.5,
+                "dimensions": "6.75\"x5.25\"x2.5\"H",
+                "engravingArea": "4.5\"x3\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1736",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/WD19.jpg"
+    },
+    {
+        "id": "rustic-tavern-mugs",
+        "name": "Rustic Tavern Mugs",
+        "slug": "rustic-tavern-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/26-oz-Rustic-Tavern-Mugs.jpg",
+                "alt": "Rustic Tavern Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "G111",
+                "name": "Rustic Tavern mug 26 oz- tan to beige",
+                "price": 19.95,
+                "dimensions": "5\"",
+                "engravingArea": "2.5\" H"
+            },
+            {
+                "sku": "G114",
+                "name": "Rustic Tavern mug 26 oz- blue to green",
+                "price": 19.95,
+                "dimensions": "5\"",
+                "engravingArea": "2.5\" H"
+            },
+            {
+                "sku": "G115",
+                "name": "Rustic Tavern mug 26 oz - blue to tan",
+                "price": 19.95,
+                "dimensions": "5\"",
+                "engravingArea": "2.5\" H"
+            },
+            {
+                "sku": "G120",
+                "name": "Rustic Tavern mug 26 oz - rust to beige",
+                "price": 19.92,
+                "dimensions": "5\"",
+                "engravingArea": "2.5\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1427",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/26-oz-Rustic-Tavern-Mugs.jpg"
+    },
+    {
+        "id": "shot-glasses-old-fashioned-glass",
+        "name": "Shot Glasses & Double Old Fashioned Glass",
+        "slug": "shot-glasses-old-fashioned-glass",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/AA30_AA31_X06_New-scaled.jpg",
+                "alt": "Shot Glasses & Double Old Fashioned Glass"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "AA30",
+                "name": "1.7oz Classic Shot Glass",
+                "price": 14.5,
+                "dimensions": "3\"H",
+                "engravingArea": "1.5\"W"
+            },
+            {
+                "sku": "AA31",
+                "name": "2.25oz Square Shot Glass",
+                "price": 14.5,
+                "dimensions": "2.5\"H",
+                "engravingArea": "1.5\"W"
+            },
+            {
+                "sku": "X06",
+                "name": "14oz Double Old Fashioned",
+                "price": 19.5,
+                "dimensions": "4.25\"H",
+                "engravingArea": "2.5\"W"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "2062",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/10/AA30_AA31_X06_New-scaled.jpg"
+    },
+    {
+        "id": "silver-plated-money-clip-key-ring",
+        "name": "Silver plated money clip & key ring",
+        "slug": "silver-plated-money-clip-key-ring",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CR18-CR21.jpg",
+                "alt": "Silver plated money clip & key ring"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "CR18",
+                "name": "Silver plated money clip",
+                "price": 36.95,
+                "dimensions": "2\"x1.5\" H",
+                "engravingArea": "1.5\"x1\" H"
+            },
+            {
+                "sku": "CR21",
+                "name": "Silver plated disc key ring",
+                "price": 43.95,
+                "dimensions": "2\"x1.5\" H",
+                "engravingArea": "1.5\"x1\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1554",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CR18-CR21.jpg"
+    },
+    {
+        "id": "silver-plated-round-tray",
+        "name": "Silver plated round tray",
+        "slug": "silver-plated-round-tray",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CR08.jpg",
+                "alt": "Silver plated round tray"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "CR08",
+                "name": "Silver plated round tray",
+                "price": 36.98,
+                "dimensions": "6\" D",
+                "engravingArea": "3\" D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1542",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CR08.jpg"
+    },
+    {
+        "id": "silver-plated-shell-dishes-set-of-4",
+        "name": "Silver plated shell dishes set of 4",
+        "slug": "silver-plated-shell-dishes-set-of-4",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CR14.jpg",
+                "alt": "Silver plated shell dishes set of 4"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "CR14",
+                "name": "Silver plated shell dishes set of 4",
+                "price": 156.5,
+                "dimensions": "7\"x4.25\" H",
+                "engravingArea": "5\"x2.75\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1548",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CR14.jpg"
+    },
+    {
+        "id": "silver-plated-tray",
+        "name": "Silver Plated Tray",
+        "slug": "silver-plated-tray",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/C16-C17-C18.jpg",
+                "alt": "Silver Plated Tray"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "C16",
+                "name": "Silver Plated Tray 8\"",
+                "price": 69.5,
+                "dimensions": "8\"D",
+                "engravingArea": "4\"D"
+            },
+            {
+                "sku": "C17",
+                "name": "Silver Plated Tray 10\"",
+                "price": 89.5,
+                "dimensions": "10\"D",
+                "engravingArea": "5\"D"
+            },
+            {
+                "sku": "C18",
+                "name": "Silver Plated Tray 12\"",
+                "price": 100.5,
+                "dimensions": "12\"D",
+                "engravingArea": "6\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1534",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/C16-C17-C18.jpg"
+    },
+    {
+        "id": "silver-silhouette-frame",
+        "name": "Silver Silhouette Frame",
+        "slug": "silver-silhouette-frame",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CR23_Updated-1-scaled.jpg",
+                "alt": "Silver Silhouette Frame"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "CR23",
+                "name": "Silver Silhouette Frame",
+                "price": 103.5,
+                "dimensions": "5\"x7\" H",
+                "engravingArea": "4.5\"x1\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1558",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CR23_Updated-1-scaled.jpg"
+    },
+    {
+        "id": "silver-wood-gift-set-w-card-case-pen-keychain",
+        "name": "Silver/wood gift set w/card case, pen & keychain",
+        "slug": "silver-wood-gift-set-w-card-case-pen-keychain",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/J80.jpg",
+                "alt": "Silver/wood gift set w/card case, pen & keychain"
+            }
+        ],
+        "tags": [
+            "silver",
+            "wood"
+        ],
+        "variants": [
+            {
+                "sku": "J80",
+                "name": "Silver/wood gift set w/card case, pen & keychain",
+                "price": 63.5,
+                "dimensions": "",
+                "engravingArea": "Card Case 1.25 x 2.5w Keychain 1w Pen .25 x 1.5w"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1746",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/J80.jpg"
+    },
+    {
+        "id": "snifter-glasses-in-a-recyclable-canister-gift-tube",
+        "name": "Snifter Glasses in a recyclable canister gift tube",
+        "slug": "snifter-glasses-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CU04C2.jpg",
+                "alt": "Snifter Glasses in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "CU04 C2",
+                "name": "21oz Brandy Snifter set of 2 custom canister",
+                "price": 75.98,
+                "dimensions": "14\" tall custom labeled canister",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1673",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CU04C2.jpg"
+    },
+    {
+        "id": "solid-walnut-base",
+        "name": "Solid Walnut Base",
+        "slug": "solid-walnut-base",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/LB13_LB20_Updated-scaled.jpg",
+                "alt": "Solid Walnut Base"
+            }
+        ],
+        "tags": [
+            "promotional"
+        ],
+        "variants": [
+            {
+                "sku": "LB13",
+                "name": "Walnut Base, Octagonal, 3\"X3\"",
+                "price": 25.5,
+                "dimensions": "4\"x2.5\"x1\" H",
+                "engravingArea": "1.5\"x5\" H"
+            },
+            {
+                "sku": "LB20",
+                "name": "Walnut Base, 7.75\"x 2\" x1\"H",
+                "price": 29.5,
+                "dimensions": "7.75\"x 2\" x1\"H",
+                "engravingArea": ""
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1730",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/LB13_LB20_Updated-scaled.jpg"
+    },
+    {
+        "id": "sports-mugs",
+        "name": "Sports Mugs",
+        "slug": "sports-mugs",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/B05-B06-B07.jpg",
+                "alt": "Sports Mugs"
+            }
+        ],
+        "tags": [
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "B05",
+                "name": "Star Bottom Mug 13 Oz",
+                "price": 20.5,
+                "dimensions": "5.5\"H",
+                "engravingArea": "2.25\"x3\"H"
+            },
+            {
+                "sku": "B06",
+                "name": "Star Bottom Sports Mug 15 Oz",
+                "price": 21.98,
+                "dimensions": "5.5\"H",
+                "engravingArea": "2.25\"x3\"H"
+            },
+            {
+                "sku": "B07",
+                "name": "Star Bottom Sports Mug 25 Oz",
+                "price": 23.95,
+                "dimensions": "6.75\"H",
+                "engravingArea": "3.25\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1381",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/B05-B06-B07.jpg"
+    },
+    {
+        "id": "square-silver-plated-tray",
+        "name": "Square silver plated tray",
+        "slug": "square-silver-plated-tray",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CR15.jpg",
+                "alt": "Square silver plated tray"
+            }
+        ],
+        "tags": [
+            "silver"
+        ],
+        "variants": [
+            {
+                "sku": "C15",
+                "name": "Square silver plated tray",
+                "price": 71.5,
+                "dimensions": "8\" x 8\" H",
+                "engravingArea": "4\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1546",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CR15.jpg"
+    },
+    {
+        "id": "stand-up-jade-crystal-award",
+        "name": "Stand Up Jade Crystal Award",
+        "slug": "stand-up-jade-crystal-award",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/T57-T58.jpg",
+                "alt": "Stand Up Jade Crystal Award"
+            }
+        ],
+        "tags": [
+            "crystal",
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "T57",
+                "name": "Stand Up Jade Crystal Award 4.5\" Square Base",
+                "price": 139.5,
+                "dimensions": "8\"H",
+                "engravingArea": "4\"x6\"H"
+            },
+            {
+                "sku": "T58",
+                "name": "Small Stand Up Jade Crystal Award",
+                "price": 125.5,
+                "dimensions": "6.75\"H",
+                "engravingArea": "3\"x4\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1638",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/T57-T58.jpg"
+    },
+    {
+        "id": "standup-disc-award",
+        "name": "Standup Disc Award",
+        "slug": "standup-disc-award",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/Kp-tvNWE-scaled.jpeg",
+                "alt": "Standup Disc Award"
+            }
+        ],
+        "tags": [
+            "awards"
+        ],
+        "variants": [
+            {
+                "sku": "L09",
+                "name": "Standup Disc Award",
+                "price": 83.5,
+                "dimensions": "5.5\"D",
+                "engravingArea": "4.25\"D"
+            },
+            {
+                "sku": "L11",
+                "name": "Stand up disc award",
+                "price": 75.5,
+                "dimensions": "4.5\"H",
+                "engravingArea": "2.5\"D"
+            },
+            {
+                "sku": "L13",
+                "name": "Standup Disc Award",
+                "price": 53.5,
+                "dimensions": "3.5\"D",
+                "engravingArea": "2.5\"D"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1622",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/Kp-tvNWE-scaled.jpeg"
+    },
+    {
+        "id": "stemless-flute-wine-stopper",
+        "name": "Stemless Flute & Wine Stopper",
+        "slug": "stemless-flute-wine-stopper",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/AA90_H02_New-scaled.jpg",
+                "alt": "Stemless Flute & Wine Stopper"
+            }
+        ],
+        "tags": [
+            "vintners"
+        ],
+        "variants": [
+            {
+                "sku": "AA90",
+                "name": "9.5oz Stemless Flute",
+                "price": 17.5,
+                "dimensions": "6\"H",
+                "engravingArea": "1.5\"W"
+            },
+            {
+                "sku": "H02",
+                "name": "Wine Stopper",
+                "price": 52.5,
+                "dimensions": "4\"H",
+                "engravingArea": "1.5\"W"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "2059",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2025/10/AA90_H02_New-scaled.jpg"
+    },
+    {
+        "id": "stemless-gin-glasses-in-a-recyclable-canister-gift-tube",
+        "name": "Stemless Gin Glasses in a recyclable canister gift tube",
+        "slug": "stemless-gin-glasses-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CU08C2.jpg",
+                "alt": "Stemless Gin Glasses in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "CU08 C2",
+                "name": "14.9oz stemless gin glass set of 2 custom canister",
+                "price": 75.98,
+                "dimensions": "10\" tall custom labeled canister",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1675",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CU08C2.jpg"
+    },
+    {
+        "id": "stemless-wine-glasses-in-a-recyclable-canister-gift-tube",
+        "name": "Stemless Wine Glasses in a recyclable canister gift tube",
+        "slug": "stemless-wine-glasses-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/ND11C2.jpg",
+                "alt": "Stemless Wine Glasses in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "vintners",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "ND11 C2",
+                "name": "Stemless Wine Glass 15 Oz set of 2 custom canister",
+                "price": 48.2,
+                "dimensions": "14\" tall custom labeled canister",
+                "engravingArea": "1.5\u201dD"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1679",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/ND11C2.jpg"
+    },
+    {
+        "id": "stemless-wine-glasses-in-a-recyclable-canister-gift-tube-2",
+        "name": "Stemless Wine Glasses in a recyclable canister gift tube",
+        "slug": "stemless-wine-glasses-in-a-recyclable-canister-gift-tube-2",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/ND12C2.jpg",
+                "alt": "Stemless Wine Glasses in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "vintners",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "ND12 C2",
+                "name": "Stemless Wine Glass 21 Oz set of 2 custom canister",
+                "price": 48.2,
+                "dimensions": "14\" tall custom labeled canister",
+                "engravingArea": "2\u201dD"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1681",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/ND12C2.jpg"
+    },
+    {
+        "id": "vanderbuilt-crystal-footed-bowls",
+        "name": "Vanderbuilt Crystal Footed Bowls",
+        "slug": "vanderbuilt-crystal-footed-bowls",
+        "description": "(Wooden base sold separately, can stand without base)",
+        "images": [
+            {
+                "src": "/images/products/G68-G69-G83.jpg",
+                "alt": "Vanderbuilt Crystal Footed Bowls"
+            }
+        ],
+        "tags": [
+            "crystal"
+        ],
+        "variants": [
+            {
+                "sku": "G68",
+                "name": "Medium Vanderbuilt Footed Bowl Handcut Full Lead Crystal",
+                "price": 356.5,
+                "dimensions": "7.75\"x5.5\"H",
+                "engravingArea": "2.5\u201dx1.5\u201dH"
+            },
+            {
+                "sku": "G69",
+                "name": "Large Vanderbuilt Footed Bowl Handcut Full Lead Crystal",
+                "price": 520.5,
+                "dimensions": "9.5\"x6.5\"H",
+                "engravingArea": "2.5\u201dx2\u201dH"
+            },
+            {
+                "sku": "G83",
+                "name": "Small Vanderbuilt Footed Bowl Handcut Full Lead Crystal",
+                "price": 181.5,
+                "dimensions": "6\"x4\"H",
+                "engravingArea": "2\"x1.5\"H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1706",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/G68-G69-G83.jpg"
+    },
+    {
+        "id": "whiskey-glasses-in-a-recyclable-canister-gift-tube",
+        "name": "Whiskey Glasses in a recyclable canister gift tube",
+        "slug": "whiskey-glasses-in-a-recyclable-canister-gift-tube",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/CU09C2.jpg",
+                "alt": "Whiskey Glasses in a recyclable canister gift tube"
+            }
+        ],
+        "tags": [
+            "glass",
+            "barware"
+        ],
+        "variants": [
+            {
+                "sku": "CU09 C2",
+                "name": "6.5oz Glandala whiskey glass set of 2 custom canister",
+                "price": 75.98,
+                "dimensions": "12.5\" tall custom labeled canister",
+                "engravingArea": "2\u201dW"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1677",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/CU09C2.jpg"
+    },
+    {
+        "id": "wine-box-with-tools",
+        "name": "Wine box with tools",
+        "slug": "wine-box-with-tools",
+        "description": "",
+        "images": [
+            {
+                "src": "/images/products/J65_Updated-scaled.jpg",
+                "alt": "Wine box with tools"
+            }
+        ],
+        "tags": [
+            "vintners"
+        ],
+        "variants": [
+            {
+                "sku": "J65",
+                "name": "Bamboo wine box with tools",
+                "price": 135.75,
+                "dimensions": "14.25\"x4.5\" H",
+                "engravingArea": "11\"x3\" H"
+            }
+        ],
+        "featured": false,
+        "active": true,
+        "wpId": "1509",
+        "originalImageUrl": "https://glassgraphics.local/wp-content/uploads/2023/10/J65_Updated-scaled.jpg"
+    }
+]

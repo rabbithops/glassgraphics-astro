@@ -1,0 +1,92 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+interface Props {
+	title: string;
+	description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+	<article class="content-page">
+		<h1>{title}</h1>
+		<div class="content-body">
+			<slot />
+		</div>
+	</article>
+</BaseLayout>
+
+<style>
+	.content-page {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: 1rem 1.5rem 3rem;
+	}
+
+	.content-page h1 {
+		font-family: var(--font-heading);
+		font-size: 2.25rem;
+		color: var(--gg-primary);
+		margin-bottom: 1.5rem;
+	}
+
+	.content-body {
+		line-height: 1.8;
+	}
+
+	.content-body :global(p) {
+		margin-bottom: 1.25rem;
+	}
+
+	.content-body :global(h2) {
+		font-family: var(--font-heading);
+		font-size: 1.5rem;
+		color: var(--gg-primary);
+		margin-top: 2rem;
+		margin-bottom: 1rem;
+	}
+
+	.content-body :global(ul) {
+		margin: 1.5rem 0;
+		padding-left: 1.5rem;
+	}
+
+	.content-body :global(li) {
+		margin-bottom: 0.5rem;
+		line-height: 1.6;
+	}
+
+	.content-body :global(a) {
+		color: var(--gg-secondary);
+	}
+
+	.content-body :global(a:hover) {
+		text-decoration: underline;
+	}
+
+	.content-body :global(.card) {
+		background: var(--gg-surface);
+		padding: 1.5rem;
+		border-radius: 0.5rem;
+		margin: 1.5rem 0;
+	}
+
+	.content-body :global(.card h2),
+	.content-body :global(.card h3) {
+		margin-top: 0;
+	}
+
+	.content-body :global(.grid-2) {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 1.5rem;
+	}
+
+	@media (max-width: 768px) {
+		.content-body :global(.grid-2) {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>

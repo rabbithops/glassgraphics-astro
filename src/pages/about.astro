@@ -1,0 +1,93 @@
+---
+import ContentLayout from "../layouts/ContentLayout.astro";
+---
+
+<ContentLayout
+	title="About Us"
+	description="Learn about Glass Graphics - your wholesale supplier of corporate and specialty gifts and awards since 1981."
+>
+	<p class="lead">
+		Thank you for considering Glass Graphics to be your supplier of
+		corporate and specialty gifts and awards. We specialize in custom
+		engraved crystal, wood, marble, nickel and silver products.
+	</p>
+
+	<p>
+		Since we first opened for business in 1981, our focus has always been on
+		providing our customers with the finest engraving on the finest
+		products, the best service, and the most competitive pricing. Large or
+		small, this is the promise that we make to each of our customers.
+	</p>
+
+	<p>
+		Since we are a wholesale only dealer, some of the benefits to our
+		customers include:
+	</p>
+
+	<ul>
+		<li>No logo set-up fees</li>
+		<li>No minimums</li>
+		<li>Fast & friendly service</li>
+		<li>Supplier of blank goods</li>
+		<li>Reliable vendor for over 42 years</li>
+	</ul>
+
+	<p>
+		For ordering information, please <a href="/contact">contact us</a>.
+	</p>
+
+	<div class="card">
+		<h2 class="team-heading">Thank you for visiting us</h2>
+		<div class="team-members">
+			<div class="team-member">
+				<strong>Stu Dunlop</strong>
+				<span>President/Co-Owner</span>
+			</div>
+			<div class="team-member">
+				<strong>Andrew Peterson</strong>
+				<span>Vice President/Co-Owner & Retail Sales Manager</span>
+			</div>
+		</div>
+	</div>
+</ContentLayout>
+
+<style>
+	.lead {
+		font-size: 1.1rem;
+	}
+
+	.team-heading {
+		text-align: center;
+	}
+
+	.team-members {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 3rem;
+	}
+
+	.team-member {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		gap: 0.25rem;
+	}
+
+	.team-member strong {
+		font-size: 1.1rem;
+		color: var(--gg-text);
+	}
+
+	.team-member span {
+		font-size: 0.9rem;
+		color: var(--gg-muted);
+	}
+
+	@media (max-width: 600px) {
+		.team-members {
+			flex-direction: column;
+			gap: 1.5rem;
+		}
+	}
+</style>
