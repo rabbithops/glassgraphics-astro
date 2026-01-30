@@ -141,7 +141,10 @@ const fullTitle =
 		</script>
 	</head>
 	<body>
-		<div class="top-bar">
+		<!-- Skip to main content link for keyboard users -->
+		<a href="#main-content" class="skip-link">Skip to main content</a>
+
+		<div class="top-bar" role="banner">
 			<div class="container top-bar-content">
 				<div class="top-bar-left">
 					<a
@@ -175,8 +178,12 @@ const fullTitle =
 				</div>
 			</div>
 		</div>
-		<header class="site-header">
-			<nav class="container header-nav">
+		<header
+			class="site-header"
+			role="navigation"
+			aria-label="Main navigation"
+		>
+			<nav class="container header-nav" aria-label="Primary">
 				<div class="header-brand">
 					<a href="/" class="logo">
 						<img
@@ -203,11 +210,11 @@ const fullTitle =
 			</nav>
 		</header>
 
-		<main class="container">
+		<main id="main-content" class="container" role="main">
 			<slot />
 		</main>
 
-		<footer class="container">
+		<footer class="container" role="contentinfo">
 			<hr />
 			<p>
 				<small>
