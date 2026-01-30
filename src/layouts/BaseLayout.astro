@@ -2,12 +2,23 @@
 interface Props {
 	title: string;
 	description?: string;
+	image?: string;
+	type?: string;
 }
 
 const {
 	title,
-	description = "Glass Graphics - Premium Crystal & Glass Personalization",
+	description = "Glass Graphics - Wholesale supplier of custom engraved crystal, glass, and promotional products in Conway, NH. Corporate gifts, awards, and personalized items since 1981.",
+	image = "/images/logo.png",
+	type = "website",
 } = Astro.props;
+
+const siteUrl = "https://glassgraphics.com";
+const canonicalUrl = new URL(Astro.url.pathname, siteUrl).toString();
+const fullTitle =
+	title === "Home"
+		? "Glass Graphics | Custom Engraved Crystal & Glass Awards | Conway, NH"
+		: `${title} | Glass Graphics`;
 ---
 
 <!doctype html>
@@ -15,8 +26,45 @@ const {
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<!-- Primary Meta Tags -->
+		<title>{fullTitle}</title>
+		<meta name="title" content={fullTitle} />
 		<meta name="description" content={description} />
+		<meta
+			name="keywords"
+			content="custom engraved glass, crystal awards, corporate gifts, promotional products, personalized awards, Conway NH, wholesale awards, glass engraving, crystal trophies, recognition awards"
+		/>
+		<meta name="author" content="Glass Graphics" />
+
+		<!-- Canonical URL -->
+		<link rel="canonical" href={canonicalUrl} />
+
+		<!-- Geo Tags for Local SEO -->
+		<meta name="geo.region" content="US-NH" />
+		<meta name="geo.placename" content="Conway" />
+		<meta name="geo.position" content="43.9792;-71.1283" />
+		<meta name="ICBM" content="43.9792, -71.1283" />
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content={type} />
+		<meta property="og:url" content={canonicalUrl} />
+		<meta property="og:title" content={fullTitle} />
+		<meta property="og:description" content={description} />
+		<meta property="og:image" content={`${siteUrl}${image}`} />
+		<meta property="og:site_name" content="Glass Graphics" />
+		<meta property="og:locale" content="en_US" />
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image" />
+		<meta property="twitter:url" content={canonicalUrl} />
+		<meta property="twitter:title" content={fullTitle} />
+		<meta property="twitter:description" content={description} />
+		<meta property="twitter:image" content={`${siteUrl}${image}`} />
+
+		<!-- Favicon -->
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/logo.png" />
 
 		<!-- Pico CSS -->
 		<link
@@ -35,7 +83,62 @@ const {
 			rel="stylesheet"
 		/>
 
-		<title>{title} | Glass Graphics</title>
+		<!-- Local Business Schema -->
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "LocalBusiness",
+				"name": "Glass Graphics",
+				"description": "Wholesale supplier of custom engraved crystal, glass, and promotional products. Corporate gifts, awards, and personalized items since 1981.",
+				"url": "https://glassgraphics.com",
+				"telephone": "+1-603-447-1900",
+				"email": "info@glassgraphics.com",
+				"address": {
+					"@type": "PostalAddress",
+					"streetAddress": "56 Pleasant St",
+					"addressLocality": "Conway",
+					"addressRegion": "NH",
+					"postalCode": "03818",
+					"addressCountry": "US"
+				},
+				"geo": {
+					"@type": "GeoCoordinates",
+					"latitude": 43.9792,
+					"longitude": -71.1283
+				},
+				"openingHours": "Mo-Fr 09:00-17:00",
+				"priceRange": "$$",
+				"image": "https://glassgraphics.com/images/logo.png",
+				"sameAs": ["https://www.facebook.com/glassgraphics/"],
+				"foundingDate": "1981",
+				"areaServed": {
+					"@type": "Country",
+					"name": "United States"
+				},
+				"hasOfferCatalog": {
+					"@type": "OfferCatalog",
+					"name": "Custom Engraved Products",
+					"itemListElement": [
+						{
+							"@type": "OfferCatalog",
+							"name": "Crystal Awards"
+						},
+						{
+							"@type": "OfferCatalog",
+							"name": "Glass Engraving"
+						},
+						{
+							"@type": "OfferCatalog",
+							"name": "Corporate Gifts"
+						},
+						{
+							"@type": "OfferCatalog",
+							"name": "Promotional Products"
+						}
+					]
+				}
+			}
+		</script>
 	</head>
 	<body>
 		<div class="top-bar">

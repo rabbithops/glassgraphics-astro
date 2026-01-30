@@ -1,0 +1,11 @@
+# Glass Graphics - robots.txt
+# https://glassgraphics.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://glassgraphics.com/sitemap-index.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
