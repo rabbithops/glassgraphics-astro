@@ -330,7 +330,7 @@
                 "name": "16 oz pint and 15 oz stemless wine glass set in custom canister",
                 "price": 48.2,
                 "dimensions": "12.5 tall custom labeled canister",
-                "engravingArea": "1.5\u201dD"
+                "engravingArea": "1.5”D"
             }
         ],
         "featured": false,
@@ -360,7 +360,7 @@
                 "name": "16 oz pint and shot glass set in custom canister",
                 "price": 48.2,
                 "dimensions": "9.5\" tall custom labeled canister",
-                "engravingArea": "2.5\u201d x 3\u201dH"
+                "engravingArea": "2.5” x 3”H"
             }
         ],
         "featured": false,
@@ -389,7 +389,7 @@
                 "name": "16 oz pint set of 2 custom canister",
                 "price": 48.2,
                 "dimensions": "12.5\" tall custom labeled canister",
-                "engravingArea": "2.5\u201d x 3\u201dH"
+                "engravingArea": "2.5” x 3”H"
             }
         ],
         "featured": false,
@@ -586,14 +586,14 @@
                 "name": "Wine Glass 16 Oz",
                 "price": 20.5,
                 "dimensions": "3\"x8.75\"H",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             },
             {
                 "sku": "B57",
                 "name": "Wine Glass 19 Oz",
                 "price": 20.5,
                 "dimensions": "3.25\"x9\"H",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,
@@ -656,7 +656,7 @@
                 "name": "9\" rectangle daydream vase",
                 "price": 103.5,
                 "dimensions": "9\" H",
-                "engravingArea": "3\u201dW x 5\u201dH"
+                "engravingArea": "3”W x 5”H"
             }
         ],
         "featured": false,
@@ -684,8 +684,8 @@
                 "sku": "Q57",
                 "name": "Art Glass on Black Base",
                 "price": 104.5,
-                "dimensions": "3.25\u201dW x 1.5\u201dH",
-                "engravingArea": "2W x 1\u201dH"
+                "dimensions": "3.25”W x 1.5”H",
+                "engravingArea": "2W x 1”H"
             }
         ],
         "featured": false,
@@ -973,7 +973,7 @@
             {
                 "sku": "M02",
                 "name": "Hilo Soup Bowl - Blue 12.5 Oz",
-                "price": 18.7,
+                "price": 18.75,
                 "dimensions": "2.5\"H",
                 "engravingArea": "3\"x1.75\"H"
             },
@@ -1067,21 +1067,21 @@
                 "name": "Classic Clear Footed Bowl 8\"D",
                 "price": 149.5,
                 "dimensions": "8\"",
-                "engravingArea": "3\u201dx2\u201dH"
+                "engravingArea": "3”x2”H"
             },
             {
                 "sku": "MJ17",
                 "name": "Classic Clear Footed Bowl 9\"D",
                 "price": 188.5,
                 "dimensions": "9\"",
-                "engravingArea": "3.5\u201d x 2.5\u201dH"
+                "engravingArea": "3.5” x 2.5”H"
             },
             {
                 "sku": "MJ18",
                 "name": "Classic Clear Footed Bowl 11\"D",
                 "price": 225.5,
                 "dimensions": "11\"",
-                "engravingArea": "4\u201dx3\u201dH"
+                "engravingArea": "4”x3”H"
             }
         ],
         "featured": false,
@@ -1137,22 +1137,22 @@
                 "sku": "Q40",
                 "name": "Small Crystal Arrowhead Award",
                 "price": 70.5,
-                "dimensions": "3.625\u201dW X 4.5\u201dH",
-                "engravingArea": "2.25\u201dW x 3.25\u201dH"
+                "dimensions": "3.625”W X 4.5”H",
+                "engravingArea": "2.25”W x 3.25”H"
             },
             {
                 "sku": "Q41",
                 "name": "Medium Crystal Arrowhead Award",
                 "price": 90,
-                "dimensions": "5.75\u201dW 6.25\u201dH",
-                "engravingArea": "3.5\u201dW x 4.5\u201dH"
+                "dimensions": "5.75”W 6.25”H",
+                "engravingArea": "3.5”W x 4.5”H"
             },
             {
                 "sku": "Q42",
                 "name": "Large Crystal Arrowhead Award",
                 "price": 120.5,
-                "dimensions": "6.875\u201dW x 8.75\u201dH",
-                "engravingArea": "5\u201dW x 6.5\u201dH"
+                "dimensions": "6.875”W x 8.75”H",
+                "engravingArea": "5”W x 6.5”H"
             }
         ],
         "featured": false,
@@ -1178,9 +1178,9 @@
             {
                 "sku": "L08",
                 "name": "Crystal Iceburg 6\"",
-                "price": 100.98,
+                "price": 100.5,
                 "dimensions": "6\"x5\"H",
-                "engravingArea": "3.5\u201d x 4\u201dH"
+                "engravingArea": "3.5” x 4”H"
             },
             {
                 "sku": "Q71",
@@ -1268,17 +1268,17 @@
         "variants": [
             {
                 "sku": "J92",
-                "name": "7.75\u201d Crystal Rectangle with Cobalt Accent",
+                "name": "7.75” Crystal Rectangle with Cobalt Accent",
                 "price": 185.5,
-                "dimensions": "7.75\u201dH",
-                "engravingArea": "3.75\u201d W x 4.25\u201d H"
+                "dimensions": "7.75”H",
+                "engravingArea": "3.75” W x 4.25” H"
             },
             {
                 "sku": "J93",
-                "name": "8.5\u201d Crystal Rectangle with Cobalt Accent",
+                "name": "8.5” Crystal Rectangle with Cobalt Accent",
                 "price": 195.5,
-                "dimensions": "8.5\u201dH",
-                "engravingArea": "4\u201d W x 5\u201d H"
+                "dimensions": "8.5”H",
+                "engravingArea": "4” W x 5” H"
             }
         ],
         "featured": false,
@@ -1306,7 +1306,7 @@
                 "name": "Small Crystal Revere Bowl",
                 "price": 73.5,
                 "dimensions": "5.5\"x3.5\"H",
-                "engravingArea": "2.75\u201dx1.75\u201dH"
+                "engravingArea": "2.75”x1.75”H"
             },
             {
                 "sku": "MJ502",
@@ -1348,14 +1348,14 @@
                 "name": "Crystalline Vase 10\"H",
                 "price": 264.5,
                 "dimensions": "10\"H",
-                "engravingArea": "2.25\u201dx2.75\u201dH"
+                "engravingArea": "2.25”x2.75”H"
             },
             {
                 "sku": "MJ34",
                 "name": "Crystalline Vase 12\"H",
                 "price": 333.5,
                 "dimensions": "12\"H",
-                "engravingArea": "3\u201d x 3.5\u201dH"
+                "engravingArea": "3” x 3.5”H"
             }
         ],
         "featured": false,
@@ -1481,24 +1481,24 @@
         "variants": [
             {
                 "sku": "J89",
-                "name": "8\u201d Diamond Crystal Award with Cobalt Base",
+                "name": "8” Diamond Crystal Award with Cobalt Base",
                 "price": 225.5,
-                "dimensions": "8\u201dH",
-                "engravingArea": "2.25\u201d W x 2.75\u201d H"
+                "dimensions": "8”H",
+                "engravingArea": "2.25” W x 2.75” H"
             },
             {
                 "sku": "J90",
-                "name": "9.25\u201d Diamond Crystal Award with Cobalt Base",
+                "name": "9.25” Diamond Crystal Award with Cobalt Base",
                 "price": 235.5,
-                "dimensions": "9.25\u201dH",
-                "engravingArea": "3\u201d x 3.5\u201dH"
+                "dimensions": "9.25”H",
+                "engravingArea": "3” x 3.5”H"
             },
             {
                 "sku": "J91",
-                "name": "10\u201d Diamond Crystal Award with Cobalt Base",
+                "name": "10” Diamond Crystal Award with Cobalt Base",
                 "price": 240,
-                "dimensions": "10\u201dH",
-                "engravingArea": "3\u201d W x 3.75\u201d H"
+                "dimensions": "10”H",
+                "engravingArea": "3” W x 3.75” H"
             }
         ],
         "featured": false,
@@ -1526,7 +1526,7 @@
                 "name": "Drinking Jar W/Handle 16 Oz",
                 "price": 16.5,
                 "dimensions": "5\"H",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,
@@ -1737,14 +1737,14 @@
                 "name": "Footed Full Lead Crystal Vase 10\"H",
                 "price": 418.5,
                 "dimensions": "10\"H",
-                "engravingArea": "2.5\u201dx3.5\u201dH"
+                "engravingArea": "2.5”x3.5”H"
             },
             {
                 "sku": "MJ27",
                 "name": "Full Lead Crystal Trophy Vase 14\"H",
                 "price": 575.5,
                 "dimensions": "14\"H",
-                "engravingArea": "3.5\u201dD"
+                "engravingArea": "3.5”D"
             }
         ],
         "featured": false,
@@ -1772,21 +1772,21 @@
                 "name": "Full Lead Hand Cut Crystal Vase 8\"H",
                 "price": 250.5,
                 "dimensions": "8\"H",
-                "engravingArea": "2.5\u201dx3\u201d"
+                "engravingArea": "2.5”x3”"
             },
             {
                 "sku": "MJ20",
                 "name": "Full Lead Hand Cut Crystal Vase 10\"H",
                 "price": 365.5,
                 "dimensions": "10\"H",
-                "engravingArea": "3\u201dx3.5\u201dH"
+                "engravingArea": "3”x3.5”H"
             },
             {
                 "sku": "MJ22",
                 "name": "Footed Full Lead Crystal Vase 8\"H",
                 "price": 244.5,
                 "dimensions": "8\"H",
-                "engravingArea": "2\u201dx2.5\u201dH"
+                "engravingArea": "2”x2.5”H"
             }
         ],
         "featured": false,
@@ -2112,7 +2112,7 @@
             {
                 "sku": "KF03",
                 "name": "Lg Hardwood Base",
-                "price": 113.98,
+                "price": 113.5,
                 "dimensions": "7\"x7\"x2.5\"H",
                 "engravingArea": "7\"x7\"x2.5\"H"
             },
@@ -2157,14 +2157,14 @@
                 "name": "16oz Pub Glass",
                 "price": 23.5,
                 "dimensions": "6\"H",
-                "engravingArea": "2.5\u201dW"
+                "engravingArea": "2.5”W"
             },
             {
                 "sku": "X04",
                 "name": "16oz Can Glass",
                 "price": 19.5,
-                "dimensions": "4.75\u201dH",
-                "engravingArea": "2\u201dW"
+                "dimensions": "4.75”H",
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,
@@ -2227,15 +2227,15 @@
                 "sku": "KC55",
                 "name": "Krystof Crystal Buckingham Collection Hand-Cut Small Ice Tub",
                 "price": 220.5,
-                "dimensions": "9.25\u201d x 7.25\u201dH",
-                "engravingArea": "3\u201dD"
+                "dimensions": "9.25” x 7.25”H",
+                "engravingArea": "3”D"
             },
             {
                 "sku": "KC56",
                 "name": "Krystof Crystal Buckingham Collection Hand-cut Large Champagne Bucket",
                 "price": 330.5,
-                "dimensions": "10\u201d x 9.25\u201dH",
-                "engravingArea": "4\u201dD"
+                "dimensions": "10” x 9.25”H",
+                "engravingArea": "4”D"
             }
         ],
         "featured": false,
@@ -2555,17 +2555,17 @@
         "variants": [
             {
                 "sku": "J87",
-                "name": "8\u201d Oval Halo Glass Award with Black Base",
+                "name": "8” Oval Halo Glass Award with Black Base",
                 "price": 195.5,
-                "dimensions": "8\u201dH",
-                "engravingArea": "2.75\u201d W x 4\u201d H"
+                "dimensions": "8”H",
+                "engravingArea": "2.75” W x 4” H"
             },
             {
                 "sku": "J88",
-                "name": "8.75\u201d Oval Halo Glass Award with Black Base",
+                "name": "8.75” Oval Halo Glass Award with Black Base",
                 "price": 205.5,
-                "dimensions": "8.75\u201dH",
-                "engravingArea": "3\u201d W x 4.5\u201d H"
+                "dimensions": "8.75”H",
+                "engravingArea": "3” W x 4.5” H"
             }
         ],
         "featured": false,
@@ -2746,7 +2746,7 @@
             {
                 "sku": "G120",
                 "name": "Rustic Tavern mug 26 oz - rust to beige",
-                "price": 19.92,
+                "price": 19.95,
                 "dimensions": "5\"",
                 "engravingArea": "2.5\" H"
             }
@@ -3011,7 +3011,7 @@
                 "name": "21oz Brandy Snifter set of 2 custom canister",
                 "price": 75.98,
                 "dimensions": "14\" tall custom labeled canister",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,
@@ -3079,7 +3079,7 @@
             {
                 "sku": "B06",
                 "name": "Star Bottom Sports Mug 15 Oz",
-                "price": 21.98,
+                "price": 21.95,
                 "dimensions": "5.5\"H",
                 "engravingArea": "2.25\"x3\"H"
             },
@@ -3259,7 +3259,7 @@
                 "name": "14.9oz stemless gin glass set of 2 custom canister",
                 "price": 75.98,
                 "dimensions": "10\" tall custom labeled canister",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,
@@ -3290,7 +3290,7 @@
                 "name": "Stemless Wine Glass 15 Oz set of 2 custom canister",
                 "price": 48.2,
                 "dimensions": "14\" tall custom labeled canister",
-                "engravingArea": "1.5\u201dD"
+                "engravingArea": "1.5”D"
             }
         ],
         "featured": false,
@@ -3321,7 +3321,7 @@
                 "name": "Stemless Wine Glass 21 Oz set of 2 custom canister",
                 "price": 48.2,
                 "dimensions": "14\" tall custom labeled canister",
-                "engravingArea": "2\u201dD"
+                "engravingArea": "2”D"
             }
         ],
         "featured": false,
@@ -3349,14 +3349,14 @@
                 "name": "Medium Vanderbuilt Footed Bowl Handcut Full Lead Crystal",
                 "price": 356.5,
                 "dimensions": "7.75\"x5.5\"H",
-                "engravingArea": "2.5\u201dx1.5\u201dH"
+                "engravingArea": "2.5”x1.5”H"
             },
             {
                 "sku": "G69",
                 "name": "Large Vanderbuilt Footed Bowl Handcut Full Lead Crystal",
                 "price": 520.5,
                 "dimensions": "9.5\"x6.5\"H",
-                "engravingArea": "2.5\u201dx2\u201dH"
+                "engravingArea": "2.5”x2”H"
             },
             {
                 "sku": "G83",
@@ -3393,7 +3393,7 @@
                 "name": "6.5oz Glandala whiskey glass set of 2 custom canister",
                 "price": 75.98,
                 "dimensions": "12.5\" tall custom labeled canister",
-                "engravingArea": "2\u201dW"
+                "engravingArea": "2”W"
             }
         ],
         "featured": false,

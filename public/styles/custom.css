@@ -442,3 +442,196 @@ footer small {
 	color: var(--gg-light);
 	font-size: 0.9rem;
 }
+
+/* ==========================================
+   MOBILE & TABLET RESPONSIVE STYLES
+   ========================================== */
+
+/* Tablet breakpoint */
+@media (max-width: 992px) {
+	.site-header {
+		margin-bottom: 0;
+	}
+
+	.header-nav {
+		flex-wrap: wrap;
+		gap: 1rem;
+	}
+
+	/* Row 1: Logo + Search bar, Row 2: Page links */
+	.header-brand {
+		order: 1;
+	}
+
+	.search-container {
+		order: 2;
+		flex: 1;
+		max-width: none;
+		margin: 0;
+	}
+
+	.header-links {
+		order: 3;
+		flex: 1 1 100%;
+		justify-content: center;
+		gap: 2rem;
+		padding-top: 0.75rem;
+		border-top: 1px solid #e8e8e8;
+	}
+
+	.site-header .logo img {
+		height: 140px;
+		margin: -40px 0;
+	}
+}
+
+/* Mobile breakpoint */
+@media (max-width: 768px) {
+	/* Top bar adjustments */
+	.top-bar {
+		height: auto;
+		padding: 0.5rem 0;
+	}
+
+	.top-bar-content {
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 0.5rem 1rem;
+	}
+
+	.top-bar-left {
+		order: 1;
+	}
+
+	.top-bar-center {
+		order: 3;
+		flex-basis: 100%;
+		justify-content: center;
+		font-size: 0.75rem;
+	}
+
+	.top-bar-right {
+		order: 2;
+	}
+
+	/* Header - Stack layout on mobile */
+	.site-header {
+		padding: 0.5rem 0;
+		margin-bottom: 0;
+	}
+
+	.header-nav {
+		flex-direction: column;
+		align-items: stretch;
+		gap: 0.75rem;
+	}
+
+	/* Logo row - centered, fixed aspect ratio */
+	.header-brand {
+		display: flex;
+		justify-content: center;
+		order: 1;
+	}
+
+	.site-header .logo img {
+		height: 100px;
+		width: 100px;
+		object-fit: contain;
+		margin: 0;
+	}
+
+	/* Search row - full width */
+	.search-container {
+		order: 2;
+		flex: none;
+		width: 100%;
+		max-width: 100%;
+		margin: 0;
+	}
+
+	.search-container input[type="search"] {
+		width: 100%;
+	}
+
+	/* Navigation links row - centered */
+	.header-links {
+		order: 3;
+		justify-content: center;
+		gap: 2rem;
+		padding: 0.5rem 0;
+		border-top: 1px solid #e8e8e8;
+		margin-top: 0.25rem;
+	}
+
+	.header-links a {
+		font-size: 0.85rem;
+	}
+
+	/* Category pills - horizontal scroll */
+	.category-pills {
+		padding: 0.75rem 0;
+		margin: 0 -1rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}
+
+	/* Active filters - stack on mobile */
+	.active-filters {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 0.5rem;
+	}
+
+	.active-filter-pills {
+		width: 100%;
+	}
+
+	/* Product cards */
+	.product-card-content {
+		padding: 0.75rem;
+	}
+
+	.product-card h3 {
+		font-size: 1rem;
+	}
+
+	/* Footer */
+	footer {
+		margin-top: 2rem;
+		text-align: center;
+	}
+}
+
+/* Small mobile breakpoint */
+@media (max-width: 480px) {
+	.top-bar-address {
+		display: none;
+	}
+
+	.top-bar-content {
+		justify-content: space-between;
+	}
+
+	.site-header .logo img {
+		height: 80px;
+		width: 80px;
+	}
+
+	.header-links {
+		gap: 1.5rem;
+	}
+
+	.header-links a {
+		font-size: 0.8rem;
+	}
+
+	.pill {
+		padding: 0.35rem 0.75rem;
+		font-size: 0.8rem;
+	}
+
+	.breadcrumbs {
+		font-size: 0.8rem;
+		flex-wrap: wrap;
+	}
+}
